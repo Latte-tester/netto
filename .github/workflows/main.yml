@@ -1,0 +1,66 @@
+name: Listeyi Çalıştır
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  extract-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright bs4 rapidfuzz fuzzywuzzy python-Levenshtein python-dateutil python-dotenv selenium webdriver-manager pillow
+          playwright install 
+
+      - name: Run Script
+        run: |
+          if [ -f .env ]; then
+            export $(grep -v '^#' .env | xargs)
+          else
+            echo ".env dosyası bulunamadı. Depoda mevcut olduğundan emin ol."
+            exit 1
+          fi
+          
+          if [ -z "${LISTA}" ]; then
+            echo "LIST değişkeni ayarlanmamış. .env dosyanızı kontrol et."
+            exit 1
+          fi
+          
+          python "${LISTA}.py"
+      
+      - name: Git ayarları
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Yerel değişikliklerin sakla (eğer varsa)
+        run: |
+          git diff --quiet || git stash
+
+      - name: Uzak depodan en son değişiklikleri indir
+        run: git pull --rebase origin main
+
+      - name: Saklanmış değişiklikleri geri yükle (eğer varsa)
+        run: |
+          git stash list | grep -q "stash@{0}" && git stash pop || echo "Geri alınacak değişiklik yok"
+
+      - name: Oluşturulan dosyayı commit'e ekle
+        run: |
+          git add .
+          git commit -m "UPDATE" || echo "Değişiklik yok"
+
+      - name: Değişimi başlat
+        run: git push
