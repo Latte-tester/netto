@@ -13,19 +13,6 @@
     <desc lang="it">Italy - Serie C : Ternana vs Pescara</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosTennisMensandWomensSingles4thRound">
-    <display-name>Roland-Garros Tennis Men's and Women's Singles | 4th Round</display-name>
-  </channel>
-  <programme start="20250602000000 +0200" stop="20250602110000 +0200" channel="RolandGarrosTennisMensandWomensSingles4thRound">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | 4th Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250602110000 +0200" stop="20250602130000 +0200" channel="RolandGarrosTennisMensandWomensSingles4thRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | 4th Round</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="LegaAVirtusBolognavsOlimpiaMilano">
     <display-name>Lega A : Virtus Bologna vs Olimpia Milano</display-name>
   </channel>
