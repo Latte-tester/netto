@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="ItalySerieCTernanavsPescara">
+    <display-name>Italy - Serie C : Ternana vs Pescara</display-name>
+  </channel>
+  <programme start="20250602000000 +0200" stop="20250602211500 +0200" channel="ItalySerieCTernanavsPescara">
+    <title lang="it">Inizia  alle 21:15.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Pescara.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250602211500 +0200" stop="20250602231500 +0200" channel="ItalySerieCTernanavsPescara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Pescara</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="RolandGarrosTennisMensandWomensSingles4thRound">
+    <display-name>Roland-Garros Tennis Men's and Women's Singles | 4th Round</display-name>
+  </channel>
+  <programme start="20250602000000 +0200" stop="20250602110000 +0200" channel="RolandGarrosTennisMensandWomensSingles4thRound">
+    <title lang="it">Inizia  alle 11:00.</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | 4th Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250602110000 +0200" stop="20250602130000 +0200" channel="RolandGarrosTennisMensandWomensSingles4thRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | 4th Round</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LegaAVirtusBolognavsOlimpiaMilano">
+    <display-name>Lega A : Virtus Bologna vs Olimpia Milano</display-name>
+  </channel>
+  <programme start="20250602000000 +0200" stop="20250602204500 +0200" channel="LegaAVirtusBolognavsOlimpiaMilano">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">Lega A : Virtus Bologna vs Olimpia Milano.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250602204500 +0200" stop="20250602224500 +0200" channel="LegaAVirtusBolognavsOlimpiaMilano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lega A : Virtus Bologna vs Olimpia Milano</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+</tv>
