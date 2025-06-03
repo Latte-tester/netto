@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensNationsLeagueWalesvsItaly">
-    <display-name>UEFA Women's Nations League : Wales vs Italy</display-name>
-  </channel>
-  <programme start="20250603000000 +0200" stop="20250603193000 +0200" channel="UEFAWomensNationsLeagueWalesvsItaly">
-    <title lang="it">Inizia  alle 19:30.</title>
-    <desc lang="it">UEFA Women's Nations League : Wales vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250603193000 +0200" stop="20250603213000 +0200" channel="UEFAWomensNationsLeagueWalesvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Nations League : Wales vs Italy</desc>
-    <category lang="it">Soccer</category>
-  </programme>
 </tv>
