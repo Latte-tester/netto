@@ -2,9 +2,3 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="uefawomensnationsleaguewalesvsitaly" tvg-name="UEFA Women's Nations League : Wales vs Italy (19:30)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Wales_vs_Italy.png" group-title="Eventi Live",UEFA Women's Nations League : Wales vs Italy (19:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
-
