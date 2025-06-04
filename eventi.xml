@@ -33,19 +33,6 @@
     <desc lang="it">UEFA Nations League : Germany vs Portugal</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosMenSinglesQuarterFinal">
-    <display-name>Roland-Garros Men | Singles | Quarter-Final</display-name>
-  </channel>
-  <programme start="20250604000000 +0200" stop="20250604140000 +0200" channel="RolandGarrosMenSinglesQuarterFinal">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Roland-Garros Men | Singles | Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250604140000 +0200" stop="20250604160000 +0200" channel="RolandGarrosMenSinglesQuarterFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Men | Singles | Quarter-Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="RolandGarrosWomenSinglesQuarterFinal">
     <display-name>Roland-Garros Women | Singles | Quarter-Final</display-name>
   </channel>
@@ -81,18 +68,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Lega A : Brescia vs Trapani</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="TourofSloveniaStage1MenPiranSkofljica1687km">
-    <display-name>Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)</display-name>
-  </channel>
-  <programme start="20250604000000 +0200" stop="20250604133000 +0200" channel="TourofSloveniaStage1MenPiranSkofljica1687km">
-    <title lang="it">Inizia  alle 13:30.</title>
-    <desc lang="it">Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250604133000 +0200" stop="20250604153000 +0200" channel="TourofSloveniaStage1MenPiranSkofljica1687km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
