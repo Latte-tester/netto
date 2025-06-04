@@ -17,9 +17,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/p
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="rolandgarrosmensinglesquarterfinal" tvg-name="Roland-Garros Men | Singles | Quarter-Final (14:00)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Men | Singles | Quarter-Final (14:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
 #EXTINF:-1 tvg-id="rolandgarroswomensinglesquarterfinal" tvg-name="Roland-Garros Women | Singles | Quarter-Final (16:00)" tvg-logo="https://www.godesana.com/assets/img/essentialsingles_index_feature_tabs.png" group-title="Eventi Live",Roland-Garros Women | Singles | Quarter-Final (16:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
@@ -30,11 +27,5 @@ https://exemple.m3u8
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 tvg-id="legaabresciavstrapani" tvg-name="Lega A : Brescia vs Trapani (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Brescia_vs_Trapani.png" group-title="Eventi Live",Lega A : Brescia vs Trapani (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="tourofsloveniastage1menpiranskofljica1687km" tvg-name="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
