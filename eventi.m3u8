@@ -35,6 +35,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/p
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofsloveniastage1menpiranskofljica1687km" tvg-name="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)
+#EXTINF:-1 tvg-id="tourofsloveniastage1menpiranskofljica1687km" tvg-name="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)" tvg-logo="https://static.flashscore.com/res/image/data/feOGmXWI-2Ha0aJXc.png" group-title="Eventi Live",Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (13:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
