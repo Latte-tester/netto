@@ -1,59 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFANationsLeagueGermanyvsPortugal">
-    <display-name>UEFA Nations League : Germany vs Portugal</display-name>
+  <channel id="UEFANationsLeagueSpainvsFrance">
+    <display-name>UEFA Nations League : Spain vs France</display-name>
   </channel>
-  <programme start="20250604000000 +0200" stop="20250604210000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
+  <programme start="20250605000000 +0200" stop="20250605210000 +0200" channel="UEFANationsLeagueSpainvsFrance">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal.</desc>
+    <desc lang="it">UEFA Nations League : Spain vs France.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250604210000 +0200" stop="20250604230000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
+  <programme start="20250605210000 +0200" stop="20250605230000 +0200" channel="UEFANationsLeagueSpainvsFrance">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal</desc>
+    <desc lang="it">UEFA Nations League : Spain vs France</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604210000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
+  <programme start="20250605000000 +0200" stop="20250605210000 +0200" channel="UEFANationsLeagueSpainvsFrance">
     <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal.</desc>
+    <desc lang="it">UEFA Nations League : Spain vs France.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250604210000 +0200" stop="20250604230000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
+  <programme start="20250605210000 +0200" stop="20250605230000 +0200" channel="UEFANationsLeagueSpainvsFrance">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal</desc>
+    <desc lang="it">UEFA Nations League : Spain vs France</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604210000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250604210000 +0200" stop="20250604230000 +0200" channel="UEFANationsLeagueGermanyvsPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Nations League : Germany vs Portugal</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="LegaABresciavsTrapani">
-    <display-name>Lega A : Brescia vs Trapani</display-name>
+  <channel id="RolandGarrosMixedDoublesFinal">
+    <display-name>Roland-Garros Mixed | Doubles | Final</display-name>
   </channel>
-  <programme start="20250604000000 +0200" stop="20250604204500 +0200" channel="LegaABresciavsTrapani">
+  <programme start="20250605000000 +0200" stop="20250605120000 +0200" channel="RolandGarrosMixedDoublesFinal">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">Roland-Garros Mixed | Doubles | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250605120000 +0200" stop="20250605140000 +0200" channel="RolandGarrosMixedDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros Mixed | Doubles | Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="RolandGarrosWomenSinglesSemiFinal">
+    <display-name>Roland-Garros Women | Singles | Semi-Final</display-name>
+  </channel>
+  <programme start="20250605000000 +0200" stop="20250605170000 +0200" channel="RolandGarrosWomenSinglesSemiFinal">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">Roland-Garros Women | Singles | Semi-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250605170000 +0200" stop="20250605190000 +0200" channel="RolandGarrosWomenSinglesSemiFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros Women | Singles | Semi-Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LegaAOlimpiaMilanovsVirtusBologna">
+    <display-name>Lega A : Olimpia Milano vs. Virtus Bologna</display-name>
+  </channel>
+  <programme start="20250605000000 +0200" stop="20250605204500 +0200" channel="LegaAOlimpiaMilanovsVirtusBologna">
     <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">Lega A : Brescia vs Trapani.</desc>
+    <desc lang="it">Lega A : Olimpia Milano vs. Virtus Bologna.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250604204500 +0200" stop="20250604224500 +0200" channel="LegaABresciavsTrapani">
+  <programme start="20250605204500 +0200" stop="20250605224500 +0200" channel="LegaAOlimpiaMilanovsVirtusBologna">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega A : Brescia vs Trapani</desc>
+    <desc lang="it">Lega A : Olimpia Milano vs. Virtus Bologna</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604204500 +0200" channel="LegaABresciavsTrapani">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">Lega A : Brescia vs Trapani.</desc>
+  <channel id="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
+    <display-name>Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km)</display-name>
+  </channel>
+  <programme start="20250605000000 +0200" stop="20250605130000 +0200" channel="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250604204500 +0200" stop="20250604224500 +0200" channel="LegaABresciavsTrapani">
+  <programme start="20250605130000 +0200" stop="20250605150000 +0200" channel="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega A : Brescia vs Trapani</desc>
-    <category lang="it">Basketball</category>
+    <desc lang="it">Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km)</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
