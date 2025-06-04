@@ -14,12 +14,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/p
 #EXTINF:-1 tvg-id="uefanationsleaguegermanyvsportugal" tvg-name="UEFA Nations League : Germany vs Portugal (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Germany_vs_Portugal.png" group-title="Eventi Live",UEFA Nations League : Germany vs Portugal (21:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="rolandgarroswomensinglesquarterfinal" tvg-name="Roland-Garros Women | Singles | Quarter-Final (16:00)" tvg-logo="https://www.godesana.com/assets/img/essentialsingles_index_feature_tabs.png" group-title="Eventi Live",Roland-Garros Women | Singles | Quarter-Final (16:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
