@@ -23,19 +23,6 @@
     <desc lang="it">UEFA Nations League : Spain vs France</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosWomenSinglesSemiFinal">
-    <display-name>Roland-Garros Women | Singles | Semi-Final</display-name>
-  </channel>
-  <programme start="20250605000000 +0200" stop="20250605170000 +0200" channel="RolandGarrosWomenSinglesSemiFinal">
-    <title lang="it">Inizia  alle 17:00.</title>
-    <desc lang="it">Roland-Garros Women | Singles | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250605170000 +0200" stop="20250605190000 +0200" channel="RolandGarrosWomenSinglesSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Women | Singles | Semi-Final</desc>
-    <category lang="it">Tennis MIXED DOUBLES - ROLAND GARROS</category>
-  </programme>
   <channel id="LegaAOlimpiaMilanovsVirtusBologna">
     <display-name>Lega A : Olimpia Milano vs. Virtus Bologna</display-name>
   </channel>
