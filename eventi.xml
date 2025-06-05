@@ -49,17 +49,4 @@
     <desc lang="it">Lega A : Olimpia Milano vs. Virtus Bologna</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
-    <display-name>Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km)</display-name>
-  </channel>
-  <programme start="20250605000000 +0200" stop="20250605130000 +0200" channel="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250605130000 +0200" stop="20250605150000 +0200" channel="TourofSloveniaStage2MenVelenjeRogakaSlatina1578km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Slovenia | Stage 2 Men | Velenje - Rogaška Slatina (157.8km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
