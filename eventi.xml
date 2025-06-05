@@ -34,7 +34,7 @@
   <programme start="20250605120000 +0200" stop="20250605140000 +0200" channel="RolandGarrosMixedDoublesFinal">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Roland-Garros Mixed | Doubles | Final</desc>
-    <category lang="it">Tennis</category>
+    <category lang="it">Tennis MIXED DOUBLES - ROLAND GARROS</category>
   </programme>
   <channel id="RolandGarrosWomenSinglesSemiFinal">
     <display-name>Roland-Garros Women | Singles | Semi-Final</display-name>
@@ -47,7 +47,7 @@
   <programme start="20250605170000 +0200" stop="20250605190000 +0200" channel="RolandGarrosWomenSinglesSemiFinal">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Roland-Garros Women | Singles | Semi-Final</desc>
-    <category lang="it">Tennis</category>
+    <category lang="it">Tennis MIXED DOUBLES - ROLAND GARROS</category>
   </programme>
   <channel id="LegaAOlimpiaMilanovsVirtusBologna">
     <display-name>Lega A : Olimpia Milano vs. Virtus Bologna</display-name>
