@@ -6,17 +6,29 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
+
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2) (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium853/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium852/mono.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
@@ -46,10 +58,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
@@ -63,6 +75,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium858/mono.m3u8
+
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
 
@@ -71,6 +86,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2924135092/index.m3u8
+
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT [LIVE DURING EVENTS ONLY]
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224/index.m3u8
@@ -91,10 +109,13 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium857/mono.m3u8
 
 #EXTINF:-1 tvg-id="27.twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/608774683/index.m3u8
@@ -116,6 +137,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/663536394/
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/633342961/index.m3u8
+
+#EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium854/mono.m3u8
 
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1613543898/index.m3u8
@@ -144,6 +168,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1989562337
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-name="ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1351631603/index.m3u8
 
+#EXTINF:-1 tvg-id="dazn.1.it.it" tvg-name="DAZN 1" tvg-logo="" group-title="Sport",DAZN 1 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
+
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
 
@@ -156,11 +183,17 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-id="inter.tv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
@@ -183,23 +216,41 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/924661659/
 #EXTINF:-1 tvg-id="sky.sport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2775802255/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium869/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3445562519/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.sport..251.it" tvg-name="SKY SPORT 251" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 251 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport..251.it" tvg-name="SKY SPORT 251" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 251 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
 
+#EXTINF:-1 tvg-id="sky.sport..252.it" tvg-name="SKY SPORT 252" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 252 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium872/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport..252.it" tvg-name="SKY SPORT 252" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 252 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
 
+#EXTINF:-1 tvg-id="sky.sport..253.it" tvg-name="SKY SPORT 253" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 253 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium873/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport..253.it" tvg-name="SKY SPORT 253" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 253 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
+
+#EXTINF:-1 tvg-id="sky.sport..254.it" tvg-name="SKY SPORT 254" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 254 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium874/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-name="SKY SPORT 254" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 254 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
 
 #EXTINF:-1 tvg-id="sky.sport..255.it" tvg-name="SKY SPORT 255" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 255 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
+
+#EXTINF:-1 tvg-id="sky.sport..256.it" tvg-name="SKY SPORT 256" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 256 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium876/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-name="SKY SPORT 256" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-hd-it.png" group-title="Sport",SKY SPORT 256 (SS)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.yoga/&h_origin=https://skystreaming.yoga
@@ -225,17 +276,29 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4246774056/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3093535330/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
@@ -255,6 +318,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3036316886
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2090703806/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8
 
@@ -270,14 +336,23 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="" group-title="Sport",SKY SPORTS GOLF (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
@@ -311,6 +386,12 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3835549326
 
 #EXTINF:-1 tvg-id="" tvg-name="TRSPORT" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/361314062/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="8SKY CINEMA COMEDY" tvg-logo="" group-title="Film & Serie TV",8SKY CINEMA COMEDY (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium862/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="8SKY CINEMA SUSPENSE" tvg-logo="" group-title="Film & Serie TV",8SKY CINEMA SUSPENSE (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CRIME + INV" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1968339149/index.m3u8
@@ -346,22 +427,28 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1572866962
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium861/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV",SKY CINEMA COLLECTION
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV",SKY CINEMA COLLECTION (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
@@ -372,6 +459,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium867/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
 
@@ -381,17 +471,26 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium866/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium865/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8
@@ -405,8 +504,14 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium860/mono.m3u8
+
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA UNO +24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA UNO +24 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium863/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 1
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
@@ -415,10 +520,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2221901869/index.m3u8
@@ -451,10 +556,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
@@ -475,10 +580,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
@@ -489,11 +594,14 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.serie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium880/mono.m3u8
+
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3420407456/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/269503091/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/490955579/index.m3u8
@@ -595,10 +703,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1735702308/index.m3u8
@@ -613,10 +721,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3229664409
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/464281981/index.m3u8
@@ -694,10 +802,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4031388312
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3656080408/index.m3u8
 
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1729811452/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
 
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1729811452/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA" tvg-logo="https://pbs.twimg.com/profile_images/613988173203423232/rWCQ9j6h_400x400.png" group-title="Musica",TELE RADIO SCIACCA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3990509931/index.m3u8
@@ -781,10 +889,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -850,16 +958,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3028319308
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3255207570/index.m3u8
 
 #EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2982550433/index.m3u8
-
-#EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8
 
+#EXTINF:-1 tvg-id="focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2982550433/index.m3u8
+
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro",FRANCE 24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
@@ -880,16 +988,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2854396316
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/942153014/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
-
-#EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8
 
+#EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Altro",IRIS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/576490047/index.m3u8
@@ -932,6 +1040,12 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3894526183
 
 #EXTINF:-1 tvg-id="" tvg-name="LA TR3" tvg-logo="https://www.tvdream.net/img/latr3.png" group-title="Altro",LA TR3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2210996603/index.m3u8
+
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA7" tvg-logo="" group-title="Altro",LA7 (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium855/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA7D HD+" tvg-logo="" group-title="Altro",LA7D HD+ (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium856/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIRA TV" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835333400/index.m3u8
@@ -1063,10 +1177,13 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130523218/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130523218/index.m3u8
+
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium881/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1512072384/index.m3u8

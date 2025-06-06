@@ -75,45 +75,6 @@
     <desc lang="it">Roland-Garros Men | Singles | Semi-Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGreekGrandPrixofSpainFreePractice1">
-    <display-name>MotoGP : Greek Grand Prix of Spain Free Practice 1</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="MotoGPGreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="MotoGPGreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3GreekGrandPrixofSpainFreePractice1">
-    <display-name>Moto 3 : Greek Grand Prix of Spain Free Practice 1</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606090000 +0200" channel="Moto3GreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606090000 +0200" stop="20250606110000 +0200" channel="Moto3GreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofSpainFreePractice1">
-    <display-name>Moto 2 : Greek Grand Prix of Spain Free Practice 1</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606094500 +0200" channel="Moto2GreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Inizia  alle 09:45.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606094500 +0200" stop="20250606114500 +0200" channel="Moto2GreekGrandPrixofSpainFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GreekGrandPrixofSpainPractice">
     <display-name>Moto 3 : Greek Grand Prix of Spain Practice</display-name>
   </channel>
