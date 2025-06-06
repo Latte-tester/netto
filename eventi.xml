@@ -62,45 +62,6 @@
     <desc lang="it">Roland-Garros Men | Singles | Semi-Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GreekGrandPrixofSpainPractice">
-    <display-name>Moto 3 : Greek Grand Prix of Spain Practice</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606131000 +0200" channel="Moto3GreekGrandPrixofSpainPractice">
-    <title lang="it">Inizia  alle 13:10.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606131000 +0200" stop="20250606151000 +0200" channel="Moto3GreekGrandPrixofSpainPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofSpainPractice1">
-    <display-name>MotoGP : Greek Grand Prix of Spain Practice 1</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606131500 +0200" channel="MotoGPGreekGrandPrixofSpainPractice1">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606131500 +0200" stop="20250606151500 +0200" channel="MotoGPGreekGrandPrixofSpainPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofSpain">
-    <display-name>Moto 2 : Greek Grand Prix of Spain</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606140000 +0200" channel="Moto2GreekGrandPrixofSpain">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606140000 +0200" stop="20250606160000 +0200" channel="Moto2GreekGrandPrixofSpain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="LegaBasketSerieAMpresiavsTrapani">
     <display-name>Lega Basket Serie A : Mpresia vs Trapani</display-name>
   </channel>
@@ -113,19 +74,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Lega Basket Serie A : Mpresia vs Trapani</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="TourofSloveniaStage3MenMajperkOrmoz1734km">
-    <display-name>Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km)</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606130000 +0200" channel="TourofSloveniaStage3MenMajperkOrmoz1734km">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606130000 +0200" stop="20250606150000 +0200" channel="TourofSloveniaStage3MenMajperkOrmoz1734km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UCICrosscountryShortTrackWorldCupWomenEliteLeogang">
     <display-name>UCI Cross-country Short Track World Cup | Women Elite | Leogang</display-name>
