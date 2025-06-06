@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FriendlyBulgariavsCyprus">
-    <display-name>Friendly : Bulgaria vs Cyprus</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606180000 +0200" channel="FriendlyBulgariavsCyprus">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Friendly : Bulgaria vs Cyprus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606180000 +0200" stop="20250606200000 +0200" channel="FriendlyBulgariavsCyprus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Bulgaria vs Cyprus</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250606000000 +0200" stop="20250606180000 +0200" channel="FriendlyBulgariavsCyprus">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">Friendly : Bulgaria vs Cyprus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606180000 +0200" stop="20250606200000 +0200" channel="FriendlyBulgariavsCyprus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Bulgaria vs Cyprus</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="WorldCupQualifyingNorthMacedoniavsBelgium">
     <display-name>World Cup Qualifying : North Macedonia vs Belgium</display-name>
   </channel>
@@ -49,19 +26,6 @@
     <desc lang="it">World Cup Qualifying : Norway vs Italy</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosMenSinglesSemiFinal">
-    <display-name>Roland-Garros Men | Singles | Semi-Final</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606143000 +0200" channel="RolandGarrosMenSinglesSemiFinal">
-    <title lang="it">Inizia  alle 14:30.</title>
-    <desc lang="it">Roland-Garros Men | Singles | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606143000 +0200" stop="20250606163000 +0200" channel="RolandGarrosMenSinglesSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Men | Singles | Semi-Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="LegaBasketSerieAMpresiavsTrapani">
     <display-name>Lega Basket Serie A : Mpresia vs Trapani</display-name>
   </channel>
@@ -74,18 +38,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Lega Basket Serie A : Mpresia vs Trapani</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="UCICrosscountryShortTrackWorldCupWomenEliteLeogang">
-    <display-name>UCI Cross-country Short Track World Cup | Women Elite | Leogang</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606170000 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteLeogang">
-    <title lang="it">Inizia  alle 17:00.</title>
-    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Leogang.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606170000 +0200" stop="20250606190000 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteLeogang">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Leogang</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
