@@ -49,19 +49,6 @@
     <desc lang="it">World Cup Qualifying : Norway vs Italy</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025RolandGarrosTennisLadiesDoublesFirstSemifinal">
-    <display-name>2025 Roland-Garros Tennis Ladies Doubles - First Semifinal</display-name>
-  </channel>
-  <programme start="20250606000000 +0200" stop="20250606110000 +0200" channel="2025RolandGarrosTennisLadiesDoublesFirstSemifinal">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">2025 Roland-Garros Tennis Ladies Doubles - First Semifinal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250606110000 +0200" stop="20250606130000 +0200" channel="2025RolandGarrosTennisLadiesDoublesFirstSemifinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Roland-Garros Tennis Ladies Doubles - First Semifinal</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="RolandGarrosMenSinglesSemiFinal">
     <display-name>Roland-Garros Men | Singles | Semi-Final</display-name>
   </channel>

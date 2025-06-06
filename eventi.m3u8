@@ -5,60 +5,15 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="friendlybulgariavscyprus" tvg-name="Friendly : Bulgaria vs Cyprus (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Bulgaria_vs_Cyprus.png" group-title="Eventi Live",Friendly : Bulgaria vs Cyprus (18:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
-
-#EXTINF:-1 tvg-id="friendlybulgariavscyprus" tvg-name="Friendly : Bulgaria vs Cyprus (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Bulgaria_vs_Cyprus.png" group-title="Eventi Live",Friendly : Bulgaria vs Cyprus (18:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldcupqualifyingnorthmacedoniavsbelgium" tvg-name="World Cup Qualifying : North Macedonia vs Belgium (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/North Macedonia_vs_Belgium.png" group-title="Eventi Live",World Cup Qualifying : North Macedonia vs Belgium (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsitaly" tvg-name="World Cup Qualifying : Norway vs Italy (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Norway_vs_Italy.png" group-title="Eventi Live",World Cup Qualifying : Norway vs Italy (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
-
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="2025rolandgarrostennisladiesdoublesfirstsemifinal" tvg-name="2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Eventi Live",2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="rolandgarrosmensinglessemifinal" tvg-name="Roland-Garros Men | Singles | Semi-Final (14:30)" tvg-logo="https://dwsevents.com/wp-content/uploads/2018/12/Racketlon-WM-Logo-Final-1000px.png" group-title="Eventi Live",Roland-Garros Men | Singles | Semi-Final (14:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainfreepractice1" tvg-name="MotoGP : Greek Grand Prix of Spain Free Practice 1 (09:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Free Practice 1 (09:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice1" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230513/original/pngtree-motorbike-line-art-logo-design-png-image_9160404.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice1" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 1 (09:45)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 1 (09:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainpractice" tvg-name="Moto 3 : Greek Grand Prix of Spain Practice (13:10)" tvg-logo="https://png.pngtree.com/png-clipart/20230513/original/pngtree-motorbike-line-art-logo-design-png-image_9160404.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Practice (13:10)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainpractice1" tvg-name="MotoGP : Greek Grand Prix of Spain Practice 1 (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Practice 1 (13:15)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="moto2greekgrandprixofspain" tvg-name="Moto 2 : Greek Grand Prix of Spain (14:00)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain (14:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legabasketserieampresiavstrapani" tvg-name="Lega Basket Serie A : Mpresia vs Trapani (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Mpresia_vs_Trapani.png" group-title="Eventi Live",Lega Basket Serie A : Mpresia vs Trapani (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="tourofsloveniastage3menmajperkormoz1734km" tvg-name="Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomeneliteleogang" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
