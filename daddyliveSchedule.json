@@ -5797,7 +5797,7 @@
             },
             {
                 "time": "23:30",
-                "event": "NWSL : FC vs Portland Thorns FC vs Portland Thorns FC",
+                "event": "NWSL : Bay FC vs Portland Thorns FC",
                 "channels": [
                     {
                         "channel_name": "ION USA",
@@ -5938,6 +5938,54 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - ROLAND GARROS</span>": [
+            {
+                "time": "13:00",
+                "event": "WTA - ROLAND GARROS : Sabalenka A. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "14:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Granollers M./Zeballos H. vs Salisbury J./Skupski N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 16",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
                     }
                 ]
             }
