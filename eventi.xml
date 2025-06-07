@@ -1,85 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WorldCupQualifyingAlbaniavsSerbia">
-    <display-name>World Cup Qualifying : Albania vs Serbia</display-name>
+  <channel id="UEFANationsLeagueThirdPlaceGermanyvsFrance">
+    <display-name>UEFA Nations League Third Place : Germany vs France</display-name>
   </channel>
-  <programme start="20250607000000 +0200" stop="20250607204500 +0200" channel="WorldCupQualifyingAlbaniavsSerbia">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">World Cup Qualifying : Albania vs Serbia.</desc>
+  <programme start="20250608000000 +0200" stop="20250608150000 +0200" channel="UEFANationsLeagueThirdPlaceGermanyvsFrance">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">UEFA Nations League Third Place : Germany vs France.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250607204500 +0200" stop="20250607224500 +0200" channel="WorldCupQualifyingAlbaniavsSerbia">
+  <programme start="20250608150000 +0200" stop="20250608170000 +0200" channel="UEFANationsLeagueThirdPlaceGermanyvsFrance">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Qualifying : Albania vs Serbia</desc>
+    <desc lang="it">UEFA Nations League Third Place : Germany vs France</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCPescaravsTernana">
-    <display-name>Italy - Serie C : Pescara vs Ternana</display-name>
+  <channel id="FriendlyGeorgiavsCapeVerdeIslands">
+    <display-name>Friendly : Georgia vs Cape Verde Islands</display-name>
   </channel>
-  <programme start="20250607000000 +0200" stop="20250607211500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Inizia  alle 21:15.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana.</desc>
+  <programme start="20250608000000 +0200" stop="20250608180000 +0200" channel="FriendlyGeorgiavsCapeVerdeIslands">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Friendly : Georgia vs Cape Verde Islands.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250607211500 +0200" stop="20250607231500 +0200" channel="ItalySerieCPescaravsTernana">
+  <programme start="20250608180000 +0200" stop="20250608200000 +0200" channel="FriendlyGeorgiavsCapeVerdeIslands">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana</desc>
+    <desc lang="it">Friendly : Georgia vs Cape Verde Islands</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250607000000 +0200" stop="20250607211500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Inizia  alle 21:15.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607211500 +0200" stop="20250607231500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250607000000 +0200" stop="20250607211500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Inizia  alle 21:15.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607211500 +0200" stop="20250607231500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250607000000 +0200" stop="20250607211500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Inizia  alle 21:15.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607211500 +0200" stop="20250607231500 +0200" channel="ItalySerieCPescaravsTernana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pescara vs Ternana</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="FriendlyMexicovsSwitzerland">
-    <display-name>Friendly : Mexico vs Switzerland</display-name>
+  <channel id="UEFANationsLeagueFinalPortugalvsSpain">
+    <display-name>UEFA Nations League Final : Portugal vs Spain</display-name>
   </channel>
-  <programme start="20250607000000 +0200" stop="20250607220000 +0200" channel="FriendlyMexicovsSwitzerland">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">Friendly : Mexico vs Switzerland.</desc>
+  <programme start="20250608000000 +0200" stop="20250608210000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250607220000 +0200" stop="20250608000000 +0200" channel="FriendlyMexicovsSwitzerland">
+  <programme start="20250608210000 +0200" stop="20250608230000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Mexico vs Switzerland</desc>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="LegaBasketSerieAOlimpiaMilanovsVirtusBologna">
-    <display-name>Lega Basket Serie A : Olimpia Milano vs Virtus Bologna</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607204500 +0200" channel="LegaBasketSerieAOlimpiaMilanovsVirtusBologna">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">Lega Basket Serie A : Olimpia Milano vs Virtus Bologna.</desc>
+  <programme start="20250608000000 +0200" stop="20250608210000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250607204500 +0200" stop="20250607224500 +0200" channel="LegaBasketSerieAOlimpiaMilanovsVirtusBologna">
+  <programme start="20250608210000 +0200" stop="20250608230000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega Basket Serie A : Olimpia Milano vs Virtus Bologna</desc>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250608000000 +0200" stop="20250608210000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608210000 +0200" stop="20250608230000 +0200" channel="UEFANationsLeagueFinalPortugalvsSpain">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Nations League Final : Portugal vs Spain</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="RolandGarrosWomenDoublesFinal">
+    <display-name>Roland-Garros Women | Doubles | Final</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608110000 +0200" channel="RolandGarrosWomenDoublesFinal">
+    <title lang="it">Inizia  alle 11:00.</title>
+    <desc lang="it">Roland-Garros Women | Doubles | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608110000 +0200" stop="20250608130000 +0200" channel="RolandGarrosWomenDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros Women | Doubles | Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="RolandGarrosMenSinglesFinal">
+    <display-name>Roland-Garros Men | Singles | Final</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608150000 +0200" channel="RolandGarrosMenSinglesFinal">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Roland-Garros Men | Singles | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608150000 +0200" stop="20250608170000 +0200" channel="RolandGarrosMenSinglesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros Men | Singles | Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MotoGPGreekGrandPrixofSpainWarmUp">
+    <display-name>MotoGP : Greek Grand Prix of Spain Warm Up</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608093000 +0200" channel="MotoGPGreekGrandPrixofSpainWarmUp">
+    <title lang="it">Inizia  alle 09:30.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Warm Up.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608093000 +0200" stop="20250608113000 +0200" channel="MotoGPGreekGrandPrixofSpainWarmUp">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Warm Up</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3GreekGrandPrixofSpainRace">
+    <display-name>Moto 3 : Greek Grand Prix of Spain Race</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608100000 +0200" channel="Moto3GreekGrandPrixofSpainRace">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608100000 +0200" stop="20250608120000 +0200" channel="Moto3GreekGrandPrixofSpainRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2GreekGrandPrixofSpainRace">
+    <display-name>Moto 2 : Greek Grand Prix of Spain Race</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="Moto2GreekGrandPrixofSpainRace">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608120000 +0200" stop="20250608140000 +0200" channel="Moto2GreekGrandPrixofSpainRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipLatviaMX2Race1">
+    <display-name>World Championship Latvia | MX2 | Race 1</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="WorldChampionshipLatviaMX2Race1">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">World Championship Latvia | MX2 | Race 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608120000 +0200" stop="20250608140000 +0200" channel="WorldChampionshipLatviaMX2Race1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Latvia | MX2 | Race 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipLatviaMXGP1stRace">
+    <display-name>World Championship Latvia | MXGP | 1st Race</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608130000 +0200" channel="WorldChampionshipLatviaMXGP1stRace">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">World Championship Latvia | MXGP | 1st Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608130000 +0200" stop="20250608150000 +0200" channel="WorldChampionshipLatviaMXGP1stRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Latvia | MXGP | 1st Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPGreekGrandPrixofSpainRace">
+    <display-name>MotoGP : Greek Grand Prix of Spain Race</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608133000 +0200" channel="MotoGPGreekGrandPrixofSpainRace">
+    <title lang="it">Inizia  alle 13:30.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608133000 +0200" stop="20250608153000 +0200" channel="MotoGPGreekGrandPrixofSpainRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Greek Grand Prix of Spain Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipLatviaMX2Race2">
+    <display-name>World Championship Latvia | MX2 | Race 2</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608150000 +0200" channel="WorldChampionshipLatviaMX2Race2">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">World Championship Latvia | MX2 | Race 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608150000 +0200" stop="20250608170000 +0200" channel="WorldChampionshipLatviaMX2Race2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Latvia | MX2 | Race 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipLatviaMXGPRace2">
+    <display-name>World Championship Latvia | MXGP | Race 2</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608160000 +0200" channel="WorldChampionshipLatviaMXGPRace2">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">World Championship Latvia | MXGP | Race 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608160000 +0200" stop="20250608180000 +0200" channel="WorldChampionshipLatviaMXGPRace2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Latvia | MXGP | Race 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="SerieAPlayoffsSemifinalsGame4">
+    <display-name>Serie A Playoffs | Semifinals | Game 4</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608181000 +0200" channel="SerieAPlayoffsSemifinalsGame4">
+    <title lang="it">Inizia  alle 18:10.</title>
+    <desc lang="it">Serie A Playoffs | Semifinals | Game 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608181000 +0200" stop="20250608201000 +0200" channel="SerieAPlayoffsSemifinalsGame4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A Playoffs | Semifinals | Game 4</desc>
     <category lang="it">Basketball</category>
+  </programme>
+  <channel id="SerieA2RiminivsCantu">
+    <display-name>Serie A2 : Rimini vs Cantu</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608195000 +0200" channel="SerieA2RiminivsCantu">
+    <title lang="it">Inizia  alle 19:50.</title>
+    <desc lang="it">Serie A2 : Rimini vs Cantu.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608195000 +0200" stop="20250608215000 +0200" channel="SerieA2RiminivsCantu">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Rimini vs Cantu</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WomensBoulderFinalWorldCupPrague">
+    <display-name>Women's Boulder | Final World Cup | Prague</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608183000 +0200" channel="WomensBoulderFinalWorldCupPrague">
+    <title lang="it">Inizia  alle 18:30.</title>
+    <desc lang="it">Women's Boulder | Final World Cup | Prague.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608183000 +0200" stop="20250608203000 +0200" channel="WomensBoulderFinalWorldCupPrague">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Boulder | Final World Cup | Prague</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="TourofSloveniaStage5MenLitijaNoveMesto1239km">
+    <display-name>Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km)</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608111500 +0200" channel="TourofSloveniaStage5MenLitijaNoveMesto1239km">
+    <title lang="it">Inizia  alle 11:15.</title>
+    <desc lang="it">Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608111500 +0200" stop="20250608131500 +0200" channel="TourofSloveniaStage5MenLitijaNoveMesto1239km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="UCICrosscountryOlympicWorldCupMenEliteLeogang">
+    <display-name>UCI Cross-country Olympic World Cup | Men Elite | Leogang</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608150000 +0200" channel="UCICrosscountryOlympicWorldCupMenEliteLeogang">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Leogang.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608150000 +0200" stop="20250608170000 +0200" channel="UCICrosscountryOlympicWorldCupMenEliteLeogang">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Cross-country Olympic World Cup | Men Elite | Leogang</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ItalianChampionships2025Day4TeamFoilFinalsfromPiacenza">
+    <display-name>Italian Championships 2025 - Day 4: Team Foil Finals (from Piacenza)</display-name>
+  </channel>
+  <programme start="20250608000000 +0200" stop="20250608173000 +0200" channel="ItalianChampionships2025Day4TeamFoilFinalsfromPiacenza">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italian Championships 2025 - Day 4: Team Foil Finals (from Piacenza).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250608173000 +0200" stop="20250608193000 +0200" channel="ItalianChampionships2025Day4TeamFoilFinalsfromPiacenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italian Championships 2025 - Day 4: Team Foil Finals (from Piacenza)</desc>
+    <category lang="it">Fencing</category>
   </programme>
 </tv>
