@@ -134,32 +134,6 @@
     <desc lang="it">Roland-Garros Men | Doubles | Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto2GreekGrandPrixofSpainFreePractice2">
-    <display-name>Moto 2 : Greek Grand Prix of Spain Free Practice 2</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607104500 +0200" channel="Moto2GreekGrandPrixofSpainFreePractice2">
-    <title lang="it">Inizia  alle 10:45.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607104500 +0200" stop="20250607124500 +0200" channel="Moto2GreekGrandPrixofSpainFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Free Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3GreekGrandPrixofSpainQualifying">
-    <display-name>Moto 3 : Greek Grand Prix of Spain Qualifying</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607124500 +0200" channel="Moto3GreekGrandPrixofSpainQualifying">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607124500 +0200" stop="20250607144500 +0200" channel="Moto3GreekGrandPrixofSpainQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="WorldChampionship8HoursofSpaFrancorchampsRace">
     <display-name>World Championship 8 Hours of Spa-Francorchamps | Race</display-name>
   </channel>
