@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WorldCupQualifyingBosniaandHerzegovinavsSanMarino">
-    <display-name>World Cup Qualifying : Bosnia and Herzegovina vs San Marino</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607150000 +0200" channel="WorldCupQualifyingBosniaandHerzegovinavsSanMarino">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">World Cup Qualifying : Bosnia and Herzegovina vs San Marino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607150000 +0200" stop="20250607170000 +0200" channel="WorldCupQualifyingBosniaandHerzegovinavsSanMarino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Qualifying : Bosnia and Herzegovina vs San Marino</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="WorldCupQualifyingMaltavsLithuania">
     <display-name>World Cup Qualifying : Malta vs Lithuania</display-name>
   </channel>
@@ -108,19 +95,6 @@
     <desc lang="it">Friendly : Mexico vs Switzerland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosWomenSinglesFinal">
-    <display-name>Roland-Garros Women | Singles | Final</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607150000 +0200" channel="RolandGarrosWomenSinglesFinal">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Roland-Garros Women | Singles | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607150000 +0200" stop="20250607170000 +0200" channel="RolandGarrosWomenSinglesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Women | Singles | Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="RolandGarrosMenDoublesFinal">
     <display-name>Roland-Garros Men | Doubles | Final</display-name>
   </channel>
@@ -133,19 +107,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Roland-Garros Men | Doubles | Final</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofSpainSprintRace">
-    <display-name>MotoGP : Greek Grand Prix of Spain Sprint Race</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607144500 +0200" channel="MotoGPGreekGrandPrixofSpainSprintRace">
-    <title lang="it">Inizia  alle 14:45.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607144500 +0200" stop="20250607164500 +0200" channel="MotoGPGreekGrandPrixofSpainSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Sprint Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="WorldChampionship8HoursofSpaRace">
     <display-name>World Championship 8 Hours of Spa | Race</display-name>
@@ -185,18 +146,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Men's Boulder | Final World Cup | Prague</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="MountainbikingWorldCupcompetitioninLeogangmensdescent">
-    <display-name>Mountain biking: World Cup competition in Leogang men's descent</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607150000 +0200" channel="MountainbikingWorldCupcompetitioninLeogangmensdescent">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Mountain biking: World Cup competition in Leogang men's descent.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607150000 +0200" stop="20250607170000 +0200" channel="MountainbikingWorldCupcompetitioninLeogangmensdescent">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Mountain biking: World Cup competition in Leogang men's descent</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
