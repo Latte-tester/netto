@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WorldCupQualifyingMaltavsLithuania">
-    <display-name>World Cup Qualifying : Malta vs Lithuania</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607180000 +0200" channel="WorldCupQualifyingMaltavsLithuania">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">World Cup Qualifying : Malta vs Lithuania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607180000 +0200" stop="20250607200000 +0200" channel="WorldCupQualifyingMaltavsLithuania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Qualifying : Malta vs Lithuania</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="WorldCupQualifyingAndorravsEngland">
-    <display-name>World Cup Qualifying : Andorra vs England</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607180000 +0200" channel="WorldCupQualifyingAndorravsEngland">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">World Cup Qualifying : Andorra vs England.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607180000 +0200" stop="20250607200000 +0200" channel="WorldCupQualifyingAndorravsEngland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Qualifying : Andorra vs England</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="WorldCupQualifyingAlbaniavsSerbia">
     <display-name>World Cup Qualifying : Albania vs Serbia</display-name>
   </channel>
@@ -95,32 +69,6 @@
     <desc lang="it">Friendly : Mexico vs Switzerland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosMenDoublesFinal">
-    <display-name>Roland-Garros Men | Doubles | Final</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607183000 +0200" channel="RolandGarrosMenDoublesFinal">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Roland-Garros Men | Doubles | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607183000 +0200" stop="20250607203000 +0200" channel="RolandGarrosMenDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Men | Doubles | Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="WorldChampionship8HoursofSpaRace">
-    <display-name>World Championship 8 Hours of Spa | Race</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607170000 +0200" channel="WorldChampionship8HoursofSpaRace">
-    <title lang="it">Inizia  alle 17:00.</title>
-    <desc lang="it">World Championship 8 Hours of Spa | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607170000 +0200" stop="20250607190000 +0200" channel="WorldChampionship8HoursofSpaRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship 8 Hours of Spa | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="LegaBasketSerieAOlimpiaMilanovsVirtusBologna">
     <display-name>Lega Basket Serie A : Olimpia Milano vs Virtus Bologna</display-name>
   </channel>
@@ -133,18 +81,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Lega Basket Serie A : Olimpia Milano vs Virtus Bologna</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="MensBoulderFinalWorldCupPrague">
-    <display-name>Men's Boulder | Final World Cup | Prague</display-name>
-  </channel>
-  <programme start="20250607000000 +0200" stop="20250607183000 +0200" channel="MensBoulderFinalWorldCupPrague">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Men's Boulder | Final World Cup | Prague.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250607183000 +0200" stop="20250607203000 +0200" channel="MensBoulderFinalWorldCupPrague">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Boulder | Final World Cup | Prague</desc>
-    <category lang="it">Climbing</category>
   </programme>
 </tv>
