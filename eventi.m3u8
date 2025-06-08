@@ -29,16 +29,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/p
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgp1strace" tvg-name="World Championship Latvia | MXGP | 1st Race (13:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | 1st Race (13:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt44bcc810e3391499/5f6a8e35c445d40d7b77d200/HS_MS03_Grandmasters_World_Championship_Final_(1).png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainrace" tvg-name="MotoGP : Greek Grand Prix of Spain Race (13:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/rppvpw1422400797.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Race (13:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://img1.wsimg.com/isteam/ip/35154d5b-f013-4db6-8b7f-3bfb35cced1d/blob-34d71ef.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/TV_BROADCASTERS/TV Galicia.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
