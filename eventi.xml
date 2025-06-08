@@ -85,32 +85,6 @@
     <desc lang="it">Roland-Garros Men | Singles | Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPGreekGrandPrixofSpainWarmUp">
-    <display-name>MotoGP : Greek Grand Prix of Spain Warm Up</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608093000 +0200" channel="MotoGPGreekGrandPrixofSpainWarmUp">
-    <title lang="it">Inizia  alle 09:30.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608093000 +0200" stop="20250608113000 +0200" channel="MotoGPGreekGrandPrixofSpainWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Greek Grand Prix of Spain Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3GreekGrandPrixofSpainRace">
-    <display-name>Moto 3 : Greek Grand Prix of Spain Race</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608100000 +0200" channel="Moto3GreekGrandPrixofSpainRace">
-    <title lang="it">Inizia  alle 10:00.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608100000 +0200" stop="20250608120000 +0200" channel="Moto3GreekGrandPrixofSpainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Spain Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2GreekGrandPrixofSpainRace">
     <display-name>Moto 2 : Greek Grand Prix of Spain Race</display-name>
   </channel>
