@@ -33,17 +33,4 @@
     <desc lang="it">UEFA Nations League Final : Portugal vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="SerieA2RiminivsCantu">
-    <display-name>Serie A2 : Rimini vs Cantu</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608195000 +0200" channel="SerieA2RiminivsCantu">
-    <title lang="it">Inizia  alle 19:50.</title>
-    <desc lang="it">Serie A2 : Rimini vs Cantu.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608195000 +0200" stop="20250608215000 +0200" channel="SerieA2RiminivsCantu">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 : Rimini vs Cantu</desc>
-    <category lang="it">Basketball</category>
-  </programme>
 </tv>
