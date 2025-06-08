@@ -59,19 +59,6 @@
     <desc lang="it">UEFA Nations League Final : Portugal vs Spain</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosWomenDoublesFinal">
-    <display-name>Roland-Garros Women | Doubles | Final</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608110000 +0200" channel="RolandGarrosWomenDoublesFinal">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Roland-Garros Women | Doubles | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608110000 +0200" stop="20250608130000 +0200" channel="RolandGarrosWomenDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Women | Doubles | Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="RolandGarrosMenSinglesFinal">
     <display-name>Roland-Garros Men | Singles | Final</display-name>
   </channel>
@@ -84,32 +71,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Roland-Garros Men | Singles | Final</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofSpainRace">
-    <display-name>Moto 2 : Greek Grand Prix of Spain Race</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="Moto2GreekGrandPrixofSpainRace">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608120000 +0200" stop="20250608140000 +0200" channel="Moto2GreekGrandPrixofSpainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Spain Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipLatviaMX2Race1">
-    <display-name>World Championship Latvia | MX2 | Race 1</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="WorldChampionshipLatviaMX2Race1">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">World Championship Latvia | MX2 | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608120000 +0200" stop="20250608140000 +0200" channel="WorldChampionshipLatviaMX2Race1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Latvia | MX2 | Race 1</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="WorldChampionshipLatviaMXGP1stRace">
     <display-name>World Championship Latvia | MXGP | 1st Race</display-name>
@@ -201,19 +162,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's Boulder | Final World Cup | Prague</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="TourofSloveniaStage5MenLitijaNoveMesto1239km">
-    <display-name>Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km)</display-name>
-  </channel>
-  <programme start="20250608000000 +0200" stop="20250608111500 +0200" channel="TourofSloveniaStage5MenLitijaNoveMesto1239km">
-    <title lang="it">Inizia  alle 11:15.</title>
-    <desc lang="it">Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250608111500 +0200" stop="20250608131500 +0200" channel="TourofSloveniaStage5MenLitijaNoveMesto1239km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UCICrosscountryOlympicWorldCupMenEliteLeogang">
     <display-name>UCI Cross-country Olympic World Cup | Men Elite | Leogang</display-name>
