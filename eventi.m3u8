@@ -5,27 +5,84 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingalbaniavsserbia" tvg-name="World Cup Qualifying : Albania vs Serbia (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Albania_vs_Serbia.png" group-title="Eventi Live",World Cup Qualifying : Albania vs Serbia (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsternana" tvg-name="Italy - Serie C : Pescara vs Ternana (21:15)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pescara_vs_Ternana.png" group-title="Eventi Live",Italy - Serie C : Pescara vs Ternana (21:15)
+#EXTINF:-1 tvg-id="uefanationsleaguethirdplacegermanyvsfrance" tvg-name="UEFA Nations League Third Place : Germany vs France (15:00)" tvg-logo="https://franceforward.com/wp-content/uploads/2024/08/Artboard-5.png" group-title="Eventi Live",UEFA Nations League Third Place : Germany vs France (15:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="friendlymexicovsswitzerland" tvg-name="Friendly : Mexico vs Switzerland (22:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Mexico_vs_Switzerland.png" group-title="Eventi Live",Friendly : Mexico vs Switzerland (22:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
+#EXTINF:-1 tvg-id="friendlygeorgiavscapeverdeislands" tvg-name="Friendly : Georgia vs Cape Verde Islands (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Georgia_vs_Cape Verde Islands.png" group-title="Eventi Live",Friendly : Georgia vs Cape Verde Islands (18:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="rolandgarroswomendoublesfinal" tvg-name="Roland-Garros Women | Doubles | Final (11:00)" tvg-logo="https://www.desmos.com/calc_thumbs/production/pg0g5byp7g.png" group-title="Eventi Live",Roland-Garros Women | Doubles | Final (11:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="rolandgarrosmensinglesfinal" tvg-name="Roland-Garros Men | Singles | Final (15:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0954/4660/products/28097938096180.png?v=1656908248" group-title="Eventi Live",Roland-Garros Men | Singles | Final (15:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainwarmup" tvg-name="MotoGP : Greek Grand Prix of Spain Warm Up (09:30)" tvg-logo="https://staticfanpage.akamaized.net/sport/motors/circuits/greater-noida.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Warm Up (09:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainrace" tvg-name="Moto 3 : Greek Grand Prix of Spain Race (10:00)" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/d3dd1111-1ebd-478a-bdac-96df113228cf/3688489025/moto-360-watchfaces-screenshot.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Race (10:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainrace" tvg-name="Moto 2 : Greek Grand Prix of Spain Race (12:00)" tvg-logo="https://odysseytoys.com/cdn/shop/files/BlazinMoto2Charger.png?v=1701899373" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Race (12:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race1" tvg-name="World Championship Latvia | MX2 | Race 1 (12:00)" tvg-logo="https://img1.wsimg.com/isteam/ip/35154d5b-f013-4db6-8b7f-3bfb35cced1d/blob-34d71ef.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 1 (12:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgp1strace" tvg-name="World Championship Latvia | MXGP | 1st Race (13:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | 1st Race (13:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofspainrace" tvg-name="MotoGP : Greek Grand Prix of Spain Race (13:30)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Race (13:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://store.sscnapoli.it/img/cms/sscn-manutenzione-n2.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legabasketserieaolimpiamilanovsvirtusbologna" tvg-name="Lega Basket Serie A : Olimpia Milano vs Virtus Bologna (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Olimpia Milano_vs_Virtus Bologna.png" group-title="Eventi Live",Lega Basket Serie A : Olimpia Milano vs Virtus Bologna (20:45)
+#EXTINF:-1 tvg-id="serieaplayoffssemifinalsgame4" tvg-name="Serie A Playoffs | Semifinals | Game 4 (18:10)" tvg-logo="https://cdn-icons-png.flaticon.com/512/8702/8702804.png" group-title="Eventi Live",Serie A Playoffs | Semifinals | Game 4 (18:10)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="seriea2riminivscantu" tvg-name="Serie A2 : Rimini vs Cantu (19:50)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Rimini_vs_Cantu.png" group-title="Eventi Live",Serie A2 : Rimini vs Cantu (19:50)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="womensboulderfinalworldcupprague" tvg-name="Women's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://i.pinimg.com/originals/e5/3d/86/e53d8678d08e388434ca91b57575a466.png" group-title="Eventi Live",Women's Boulder | Final World Cup | Prague (18:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="tourofsloveniastage5menlitijanovemesto1239km" tvg-name="Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km) (11:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 5 Men | Litija – Nove Mesto (123.9km) (11:15)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmeneliteleogang" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Leogang (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Leogang (15:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="italianchampionships2025day4teamfoilfinalsfrompiacenza" tvg-name="Italian Championships 2025 - Day 4: Team Foil Finals (from Piacenza) (17:30)" tvg-logo="https://assets.primesport.com/prod/images/2025 NCAA Wrestling Logo.png" group-title="Eventi Live",Italian Championships 2025 - Day 4: Team Foil Finals (from Piacenza) (17:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
