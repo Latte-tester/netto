@@ -23,7 +23,7 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/p
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="rolandgarroswomendoublesfinal" tvg-name="Roland-Garros Women | Doubles | Final (11:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live",Roland-Garros Women | Doubles | Final (11:00)
+#EXTINF:-1 tvg-id="rolandgarroswomendoublesfinal" tvg-name="Roland-Garros Women | Doubles | Final (11:00)" tvg-logo="https://www.desmos.com/calc_thumbs/production/pg0g5byp7g.png" group-title="Eventi Live",Roland-Garros Women | Doubles | Final (11:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-id="rolandgarrosmensinglesfinal" tvg-name="Roland-Garros Men | Singles | Final (15:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0954/4660/products/28097938096180.png?v=1656908248" group-title="Eventi Live",Roland-Garros Men | Singles | Final (15:00)
@@ -35,25 +35,25 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainwarmup" tvg-name="MotoGP : Greek Grand Prix of Spain Warm Up (09:30)" tvg-logo="https://staticfanpage.akamaized.net/sport/motors/circuits/greater-noida.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Warm Up (09:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainrace" tvg-name="Moto 3 : Greek Grand Prix of Spain Race (10:00)" tvg-logo="https://sibeshop.com/image/cache/catalog/ecosegnal multisimbolo/cartello organi in moto-500x500.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Race (10:00)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainrace" tvg-name="Moto 3 : Greek Grand Prix of Spain Race (10:00)" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/d3dd1111-1ebd-478a-bdac-96df113228cf/3688489025/moto-360-watchfaces-screenshot.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Race (10:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofspainrace" tvg-name="Moto 2 : Greek Grand Prix of Spain Race (12:00)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/024/207/679/small_2x/vintage-motorcycle-cartoon-logo-with-ai-generative-free-png.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Race (12:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainrace" tvg-name="Moto 2 : Greek Grand Prix of Spain Race (12:00)" tvg-logo="https://odysseytoys.com/cdn/shop/files/BlazinMoto2Charger.png?v=1701899373" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Race (12:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race1" tvg-name="World Championship Latvia | MX2 | Race 1 (12:00)" tvg-logo="https://img1.wsimg.com/isteam/ip/35154d5b-f013-4db6-8b7f-3bfb35cced1d/blob-34d71ef.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 1 (12:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race1" tvg-name="World Championship Latvia | MX2 | Race 1 (12:00)" tvg-logo="https://nxwss.fra1.digitaloceanspaces.com/nxwss_1720958663102_.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 1 (12:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgp1strace" tvg-name="World Championship Latvia | MXGP | 1st Race (13:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/TV_BROADCASTERS/TV Galicia.png" group-title="Eventi Live",World Championship Latvia | MXGP | 1st Race (13:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgp1strace" tvg-name="World Championship Latvia | MXGP | 1st Race (13:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | 1st Race (13:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainrace" tvg-name="MotoGP : Greek Grand Prix of Spain Race (13:30)" tvg-logo="https://staticfanpage.akamaized.net/sport/motors/circuits/greater-noida.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Race (13:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt44bcc810e3391499/5f6a8e35c445d40d7b77d200/HS_MS03_Grandmasters_World_Championship_Final_(1).png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://store.sscnapoli.it/img/cms/sscn-manutenzione-n2.png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/TV_BROADCASTERS/TV Galicia.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
+#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="http://mxnieuws.nl/wp-content/uploads/2023/12/Black-and-Grey-Simple-Minimalist-Aesthetic-Studio-Font-Logo.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
