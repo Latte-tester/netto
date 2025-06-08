@@ -5,9 +5,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguethirdplacegermanyvsfrance" tvg-name="UEFA Nations League Third Place : Germany vs France (15:00)" tvg-logo="https://franceforward.com/wp-content/uploads/2024/08/Artboard-5.png" group-title="Eventi Live",UEFA Nations League Third Place : Germany vs France (15:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
-
 #EXTINF:-1 tvg-id="friendlygeorgiavscapeverdeislands" tvg-name="Friendly : Georgia vs Cape Verde Islands (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Georgia_vs_Cape Verde Islands.png" group-title="Eventi Live",Friendly : Georgia vs Cape Verde Islands (18:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
@@ -19,21 +16,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/p
 
 #EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="rolandgarrosmensinglesfinal" tvg-name="Roland-Garros Men | Singles | Final (15:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0954/4660/products/28097938096180.png?v=1656908248" group-title="Eventi Live",Roland-Garros Men | Singles | Final (15:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshiplatviamx2race2" tvg-name="World Championship Latvia | MX2 | Race 2 (15:00)" tvg-logo="https://images.blz-contentstack.com/v3/assets/bltc965041283bac56c/blt44bcc810e3391499/5f6a8e35c445d40d7b77d200/HS_MS03_Grandmasters_World_Championship_Final_(1).png" group-title="Eventi Live",World Championship Latvia | MX2 | Race 2 (15:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="worldchampionshiplatviamxgprace2" tvg-name="World Championship Latvia | MXGP | Race 2 (16:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/TV_BROADCASTERS/TV Galicia.png" group-title="Eventi Live",World Championship Latvia | MXGP | Race 2 (16:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
@@ -48,12 +30,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/p
 https://exemple.m3u8
 
 #EXTINF:-1 tvg-id="womensboulderfinalworldcupprague" tvg-name="Women's Boulder | Final World Cup | Prague (18:30)" tvg-logo="https://i.pinimg.com/originals/e5/3d/86/e53d8678d08e388434ca91b57575a466.png" group-title="Eventi Live",Women's Boulder | Final World Cup | Prague (18:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupmeneliteleogang" tvg-name="UCI Cross-country Olympic World Cup | Men Elite | Leogang (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Olympic World Cup | Men Elite | Leogang (15:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
 #EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
