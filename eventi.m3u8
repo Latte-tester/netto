@@ -5,12 +5,24 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+#EXTINF:-1 tvg-id="worldcupqualifyingitalyvsmoldova" tvg-name="World Cup Qualifying : Italy vs Moldova (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Italy_vs_Moldova.png" group-title="Eventi Live",World Cup Qualifying : Italy vs Moldova (20:45)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+#EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
+https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguefinalportugalvsspain" tvg-name="UEFA Nations League Final : Portugal vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Portugal_vs_Spain.png" group-title="Eventi Live",UEFA Nations League Final : Portugal vs Spain (21:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
+#EXTINF:-1 tvg-id="legabasketserieavirtoysmpoloniavsarmanimilano" tvg-name="Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Virtoys Mpolonia_vs_Armani Milano.png" group-title="Eventi Live",Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (20:45)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="kolarstwodauphincriterion2step" tvg-name="Kolarstwo: Dauphiné Criterion 2. step (15:30)" tvg-logo="https://png.pngtree.com/png-clipart/20240119/original/pngtree-facebook-symbols-collection-png-image_14132971.png" group-title="Eventi Live",Kolarstwo: Dauphiné Criterion 2. step (15:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-name="Water polo" group-title="Eventi Live",--- Water polo ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="europeanwaterpolochampionshipqualifierswomenisraelswitzerland" tvg-name="European Water Polo Championship Qualifiers - Women: Israel - Switzerland (13:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/water-polo-championship-logo-png-transparent.png" group-title="Eventi Live",European Water Polo Championship Qualifiers - Women: Israel - Switzerland (13:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
