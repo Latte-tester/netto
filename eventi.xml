@@ -26,17 +26,4 @@
     <desc lang="it">Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="KolarstwoDauphinCriterion2step">
-    <display-name>Kolarstwo: Dauphiné Criterion 2. step</display-name>
-  </channel>
-  <programme start="20250609000000 +0200" stop="20250609153000 +0200" channel="KolarstwoDauphinCriterion2step">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">Kolarstwo: Dauphiné Criterion 2. step.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250609153000 +0200" stop="20250609173000 +0200" channel="KolarstwoDauphinCriterion2step">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Kolarstwo: Dauphiné Criterion 2. step</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
