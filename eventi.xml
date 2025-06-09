@@ -1,29 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WorldCupQualifyingItalyvsMoldova">
-    <display-name>World Cup Qualifying : Italy vs Moldova</display-name>
+  <channel id="FriendlyUSAvsSwitzerland">
+    <display-name>Friendly : USA vs Switzerland</display-name>
   </channel>
-  <programme start="20250609000000 +0200" stop="20250609204500 +0200" channel="WorldCupQualifyingItalyvsMoldova">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">World Cup Qualifying : Italy vs Moldova.</desc>
+  <programme start="20250610000000 +0200" stop="20250610020000 +0200" channel="FriendlyUSAvsSwitzerland">
+    <title lang="it">Inizia  alle 02:00.</title>
+    <desc lang="it">Friendly : USA vs Switzerland.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250609204500 +0200" stop="20250609224500 +0200" channel="WorldCupQualifyingItalyvsMoldova">
+  <programme start="20250610020000 +0200" stop="20250610040000 +0200" channel="FriendlyUSAvsSwitzerland">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Qualifying : Italy vs Moldova</desc>
+    <desc lang="it">Friendly : USA vs Switzerland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="LegaBasketSerieAVirtoysMpoloniavsArmaniMilano">
-    <display-name>Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano</display-name>
+  <channel id="FriendlyAzerbaijanvsHungary">
+    <display-name>Friendly : Azerbaijan vs Hungary</display-name>
   </channel>
-  <programme start="20250609000000 +0200" stop="20250609204500 +0200" channel="LegaBasketSerieAVirtoysMpoloniavsArmaniMilano">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano.</desc>
+  <programme start="20250610000000 +0200" stop="20250610180000 +0200" channel="FriendlyAzerbaijanvsHungary">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Friendly : Azerbaijan vs Hungary.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250609204500 +0200" stop="20250609224500 +0200" channel="LegaBasketSerieAVirtoysMpoloniavsArmaniMilano">
+  <programme start="20250610180000 +0200" stop="20250610200000 +0200" channel="FriendlyAzerbaijanvsHungary">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano</desc>
+    <desc lang="it">Friendly : Azerbaijan vs Hungary</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingFinlandvsPoland">
+    <display-name>World Cup Qualifying : Finland vs Poland</display-name>
+  </channel>
+  <programme start="20250610000000 +0200" stop="20250610204500 +0200" channel="WorldCupQualifyingFinlandvsPoland">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">World Cup Qualifying : Finland vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250610204500 +0200" stop="20250610224500 +0200" channel="WorldCupQualifyingFinlandvsPoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Finland vs Poland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FriendlyEnglandvsSenegal">
+    <display-name>Friendly : England vs Senegal</display-name>
+  </channel>
+  <programme start="20250610000000 +0200" stop="20250610204500 +0200" channel="FriendlyEnglandvsSenegal">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">Friendly : England vs Senegal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250610204500 +0200" stop="20250610224500 +0200" channel="FriendlyEnglandvsSenegal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly : England vs Senegal</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="SerieA2RiminivsCantu">
+    <display-name>Serie A2 : Rimini vs Cantu</display-name>
+  </channel>
+  <programme start="20250610000000 +0200" stop="20250610203000 +0200" channel="SerieA2RiminivsCantu">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Serie A2 : Rimini vs Cantu.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250610203000 +0200" stop="20250610223000 +0200" channel="SerieA2RiminivsCantu">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Rimini vs Cantu</desc>
     <category lang="it">Basketball</category>
+  </programme>
+  <channel id="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
+    <display-name>Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m</display-name>
+  </channel>
+  <programme start="20250610000000 +0200" stop="20250610153000 +0200" channel="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
+    <title lang="it">Inizia  alle 15:30.</title>
+    <desc lang="it">Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250610153000 +0200" stop="20250610173000 +0200" channel="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
