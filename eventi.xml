@@ -39,17 +39,4 @@
     <desc lang="it">Kolarstwo: Dauphiné Criterion 2. step</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="EuropeanWaterPoloChampionshipQualifiersWomenIsraelSwitzerland">
-    <display-name>European Water Polo Championship Qualifiers - Women: Israel - Switzerland</display-name>
-  </channel>
-  <programme start="20250609000000 +0200" stop="20250609130000 +0200" channel="EuropeanWaterPoloChampionshipQualifiersWomenIsraelSwitzerland">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">European Water Polo Championship Qualifiers - Women: Israel - Switzerland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250609130000 +0200" stop="20250609150000 +0200" channel="EuropeanWaterPoloChampionshipQualifiersWomenIsraelSwitzerland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Water Polo Championship Qualifiers - Women: Israel - Switzerland</desc>
-    <category lang="it">Water polo</category>
-  </programme>
 </tv>
