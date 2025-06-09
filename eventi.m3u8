@@ -14,9 +14,3 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="legabasketserieavirtoysmpoloniavsarmanimilano" tvg-name="Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Virtoys Mpolonia_vs_Armani Milano.png" group-title="Eventi Live",Lega Basket Serie A : Virtoys Mpolonia vs Armani Milano (20:45)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="kolarstwodauphincriterion2step" tvg-name="Kolarstwo: Dauphiné Criterion 2. step (15:30)" tvg-logo="https://png.pngtree.com/png-clipart/20240119/original/pngtree-facebook-symbols-collection-png-image_14132971.png" group-title="Eventi Live",Kolarstwo: Dauphiné Criterion 2. step (15:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
