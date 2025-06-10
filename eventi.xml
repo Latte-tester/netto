@@ -52,17 +52,4 @@
     <desc lang="it">Serie A2 : Rimini vs Cantu</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
-    <display-name>Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m</display-name>
-  </channel>
-  <programme start="20250610000000 +0200" stop="20250610153000 +0200" channel="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250610153000 +0200" stop="20250610173000 +0200" channel="DauphineCriterionBrioudeCharantonnayFlat202km2800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Dauphine Criterion Brioude - Charantonnay Flat | 202 km | 2800 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
