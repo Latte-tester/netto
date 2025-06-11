@@ -11,10 +11,7 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/p
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice1" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1 (13:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansqualifying" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansqualifying" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)" tvg-logo="http://partag-auto.e-monsite.com/medias/images/fia-wec-logo.png?fx=c_200_200" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (18:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2 (21:45)

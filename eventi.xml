@@ -39,17 +39,4 @@
     <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 2</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="CriteriumduDauphineStage4MenCharmessurRhoneSaintPerayITT174km">
-    <display-name>Criterium du Dauphine | Stage 4 Men | Charmes sur Rhone – Saint Peray (ITT, 17.4km)</display-name>
-  </channel>
-  <programme start="20250611000000 +0200" stop="20250611153000 +0200" channel="CriteriumduDauphineStage4MenCharmessurRhoneSaintPerayITT174km">
-    <title lang="it">Inizia  alle 15:30.</title>
-    <desc lang="it">Criterium du Dauphine | Stage 4 Men | Charmes sur Rhone – Saint Peray (ITT, 17.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250611153000 +0200" stop="20250611173000 +0200" channel="CriteriumduDauphineStage4MenCharmessurRhoneSaintPerayITT174km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Criterium du Dauphine | Stage 4 Men | Charmes sur Rhone – Saint Peray (ITT, 17.4km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
