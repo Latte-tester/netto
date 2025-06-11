@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Euro U-21 : Italy U21 vs Romania U21</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="FIAWECRound424HoursofLeMansFreePractice1">
-    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1</display-name>
-  </channel>
-  <programme start="20250611000000 +0200" stop="20250611134500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice1">
-    <title lang="it">Inizia  alle 13:45.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250611134500 +0200" stop="20250611154500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="FIAWECRound424HoursofLeMansQualifying">
     <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying</display-name>
   </channel>
