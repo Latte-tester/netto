@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIAWECRound424HoursofLeMansHyperpole">
-    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole</display-name>
-  </channel>
-  <programme start="20250612000000 +0200" stop="20250612194500 +0200" channel="FIAWECRound424HoursofLeMansHyperpole">
-    <title lang="it">Inizia  alle 19:45.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250612194500 +0200" stop="20250612214500 +0200" channel="FIAWECRound424HoursofLeMansHyperpole">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="FIAWECRound424HoursofLeMansFreePractice4">
     <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4</display-name>
   </channel>
@@ -38,18 +25,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Lega A : Virtus Bologna vs Brescia</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
-    <display-name>World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz</display-name>
-  </channel>
-  <programme start="20250612000000 +0200" stop="20250612190000 +0200" channel="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
-    <title lang="it">Inizia  alle 19:00.</title>
-    <desc lang="it">World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250612190000 +0200" stop="20250612210000 +0200" channel="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz</desc>
-    <category lang="it">Weightlifting</category>
   </programme>
 </tv>
