@@ -1,29 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIAWECRound424HoursofLeMansFreePractice4">
-    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4</display-name>
+  <channel id="Formula1PirelliCanadianGrandPrixPractice1">
+    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Practice 1</display-name>
   </channel>
-  <programme start="20250612000000 +0200" stop="20250612224500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice4">
-    <title lang="it">Inizia  alle 22:45.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4.</desc>
+  <programme start="20250613000000 +0200" stop="20250613193000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice1">
+    <title lang="it">Inizia  alle 19:30.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 1.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250612224500 +0200" stop="20250613004500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice4">
+  <programme start="20250613193000 +0200" stop="20250613213000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice1">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4</desc>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 1</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="LegaAVirtusBolognavsBrescia">
-    <display-name>Lega A : Virtus Bologna vs Brescia</display-name>
+  <channel id="Formula1PirelliCanadianGrandPrixPractice2">
+    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Practice 2</display-name>
   </channel>
-  <programme start="20250612000000 +0200" stop="20250612204500 +0200" channel="LegaAVirtusBolognavsBrescia">
-    <title lang="it">Inizia  alle 20:45.</title>
-    <desc lang="it">Lega A : Virtus Bologna vs Brescia.</desc>
+  <programme start="20250613000000 +0200" stop="20250613230000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice2">
+    <title lang="it">Inizia  alle 23:00.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 2.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250612204500 +0200" stop="20250612224500 +0200" channel="LegaAVirtusBolognavsBrescia">
+  <programme start="20250613230000 +0200" stop="20250614010000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice2">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega A : Virtus Bologna vs Brescia</desc>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="ItalySerieA2GoldPallacanestroCantuvsRinascitaBasketRimini">
+    <display-name>Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini</display-name>
+  </channel>
+  <programme start="20250613000000 +0200" stop="20250613204500 +0200" channel="ItalySerieA2GoldPallacanestroCantuvsRinascitaBasketRimini">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250613204500 +0200" stop="20250613224500 +0200" channel="ItalySerieA2GoldPallacanestroCantuvsRinascitaBasketRimini">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini</desc>
     <category lang="it">Basketball</category>
+  </programme>
+  <channel id="CriteriumduDauphineStage6MenValserhoneCombloux1267km">
+    <display-name>Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)</display-name>
+  </channel>
+  <programme start="20250613000000 +0200" stop="20250613153000 +0200" channel="CriteriumduDauphineStage6MenValserhoneCombloux1267km">
+    <title lang="it">Inizia  alle 15:30.</title>
+    <desc lang="it">Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250613153000 +0200" stop="20250613173000 +0200" channel="CriteriumduDauphineStage6MenValserhoneCombloux1267km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="SuperRugbyCrusadersVSBlues">
+    <display-name>Super Rugby : Crusaders VS Blues</display-name>
+  </channel>
+  <programme start="20250613000000 +0200" stop="20250613090500 +0200" channel="SuperRugbyCrusadersVSBlues">
+    <title lang="it">Inizia  alle 09:05.</title>
+    <desc lang="it">Super Rugby : Crusaders VS Blues.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250613090500 +0200" stop="20250613110500 +0200" channel="SuperRugbyCrusadersVSBlues">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super Rugby : Crusaders VS Blues</desc>
+    <category lang="it">Rugby Union</category>
   </programme>
 </tv>
