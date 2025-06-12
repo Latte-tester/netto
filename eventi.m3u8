@@ -5,19 +5,16 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="europeuefaeurou21ukraineu21vsdenmarku21" tvg-name="Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (18:00)" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8494.png" group-title="Eventi Live",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (18:00)
+#EXTINF:-1 tvg-id="europeuefaeurou21ukraineu21vsdenmarku21" tvg-name="Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Ukraine U21_vs_Denmark U21.png" group-title="Eventi Live",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (18:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice3" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (14:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemanshyperpole" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole (19:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole (19:45)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemanshyperpole" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole (19:45)" tvg-logo="https://d4sdwbchct0o0.cloudfront.net/640f7378e3fcfa1f2bda8ca5_featuredImage.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole (19:45)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice4" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice4" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)" tvg-logo="https://d4sdwbchct0o0.cloudfront.net/640f7378e3fcfa1f2bda8ca5_featuredImage.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
