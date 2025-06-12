@@ -1,3 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeUEFAEuroU21UkraineU21vsDenmarkU21">
+    <display-name>Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612180000 +0200" channel="EuropeUEFAEuroU21UkraineU21vsDenmarkU21">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612180000 +0200" stop="20250612200000 +0200" channel="EuropeUEFAEuroU21UkraineU21vsDenmarkU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIAWECRound424HoursofLeMansFreePractice3">
+    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612143000 +0200" channel="FIAWECRound424HoursofLeMansFreePractice3">
+    <title lang="it">Inizia  alle 14:30.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612143000 +0200" stop="20250612163000 +0200" channel="FIAWECRound424HoursofLeMansFreePractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="FIAWECRound424HoursofLeMansHyperpole">
+    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612194500 +0200" channel="FIAWECRound424HoursofLeMansHyperpole">
+    <title lang="it">Inizia  alle 19:45.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612194500 +0200" stop="20250612214500 +0200" channel="FIAWECRound424HoursofLeMansHyperpole">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Hyperpole</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="FIAWECRound424HoursofLeMansFreePractice4">
+    <display-name>FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612224500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice4">
+    <title lang="it">Inizia  alle 22:45.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612224500 +0200" stop="20250613004500 +0200" channel="FIAWECRound424HoursofLeMansFreePractice4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="LegaAVirtusBolognavsBrescia">
+    <display-name>Lega A : Virtus Bologna vs Brescia</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612204500 +0200" channel="LegaAVirtusBolognavsBrescia">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">Lega A : Virtus Bologna vs Brescia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612204500 +0200" stop="20250612224500 +0200" channel="LegaAVirtusBolognavsBrescia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lega A : Virtus Bologna vs Brescia</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
+    <display-name>World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz</display-name>
+  </channel>
+  <programme start="20250612000000 +0200" stop="20250612190000 +0200" channel="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
+    <title lang="it">Inizia  alle 19:00.</title>
+    <desc lang="it">World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250612190000 +0200" stop="20250612210000 +0200" channel="WorldOpenClassicPowerliftingChampionshipsWomens69kgMens93kgChemnitz">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Open Classic Powerlifting Championships Women's 69kg & Men's 93kg | Chemnitz</desc>
+    <category lang="it">Weightlifting</category>
+  </programme>
 </tv>
