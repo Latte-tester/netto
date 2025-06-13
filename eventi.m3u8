@@ -5,12 +5,27 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansfreepractice4" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 4 (22:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice1" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (19:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (19:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice2" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legaavirtusbolognavsbrescia" tvg-name="Lega A : Virtus Bologna vs Brescia (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Virtus Bologna_vs_Brescia.png" group-title="Eventi Live",Lega A : Virtus Bologna vs Brescia (20:45)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+#EXTINF:-1 tvg-id="italyseriea2goldpallacanestrocantuvsrinascitabasketrimini" tvg-name="Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pallacanestro Cantu_vs_Rinascita Basket Rimini.png" group-title="Eventi Live",Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (20:45)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="criteriumdudauphinestage6menvalserhonecombloux1267km" tvg-name="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="superrugbycrusadersvsblues" tvg-name="Super Rugby : Crusaders VS Blues (09:05)" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/06/st._louis_blues-logo_brandlogos.net_h2fub.png" group-title="Eventi Live",Super Rugby : Crusaders VS Blues (09:05)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 
