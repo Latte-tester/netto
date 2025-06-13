@@ -52,17 +52,4 @@
     <desc lang="it">Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km)</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="SuperRugbyCrusadersVSBlues">
-    <display-name>Super Rugby : Crusaders VS Blues</display-name>
-  </channel>
-  <programme start="20250613000000 +0200" stop="20250613090500 +0200" channel="SuperRugbyCrusadersVSBlues">
-    <title lang="it">Inizia  alle 09:05.</title>
-    <desc lang="it">Super Rugby : Crusaders VS Blues.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250613090500 +0200" stop="20250613110500 +0200" channel="SuperRugbyCrusadersVSBlues">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super Rugby : Crusaders VS Blues</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
 </tv>
