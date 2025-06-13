@@ -8,7 +8,7 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice1" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (19:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (19:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice2" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)" tvg-logo="https://i0.wp.com/logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice2" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (23:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
@@ -16,10 +16,4 @@ https://exemple.m3u8
 
 #EXTINF:-1 tvg-id="italyseriea2goldpallacanestrocantuvsrinascitabasketrimini" tvg-name="Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (20:45)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Pallacanestro Cantu_vs_Rinascita Basket Rimini.png" group-title="Eventi Live",Italy Serie A2 Gold : Pallacanestro Cantu vs. Rinascita Basket Rimini (20:45)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="criteriumdudauphinestage6menvalserhonecombloux1267km" tvg-name="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
