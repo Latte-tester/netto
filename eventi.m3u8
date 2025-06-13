@@ -23,9 +23,3 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="criteriumdudauphinestage6menvalserhonecombloux1267km" tvg-name="Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Criterium du Dauphine | Stage 6 Men | Valserhone – Combloux (126.7km) (15:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="superrugbycrusadersvsblues" tvg-name="Super Rugby : Crusaders VS Blues (09:05)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Crusaders_vs_Blues.png" group-title="Eventi Live",Super Rugby : Crusaders VS Blues (09:05)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
-
