@@ -17,7 +17,7 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/pre
 #EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixqualifying" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
@@ -25,22 +25,4 @@ https://exemple.m3u8
 
 #EXTINF:-1 tvg-id="italyserieavirtusbolognavspallacanestrobrescia" tvg-name="Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Virtus Bologna_vs_Pallacanestro Brescia.png" group-title="Eventi Live",Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-name="Fencing" group-title="Eventi Live",--- Fencing ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="europeanchampionships2025day1womensfoilandmenssabrefinalsfromgenoa" tvg-name="European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)" tvg-logo="https://www.uec.ch/resources/2023 Events/paracycling/EPC_CompleteLogo_Horizontal_Black_CMYK.png" group-title="Eventi Live",European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
-
-#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipfinalleinstervsbulls" tvg-name="United Rugby Championship Final : Leinster vs Bulls (18:00)" tvg-logo="https://raw.githubusercontent.com/Latte-tester/netto/main/logos/Leinster_vs_Bulls.png" group-title="Eventi Live",United Rugby Championship Final : Leinster vs Bulls (18:00)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
-
-#EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="t100triathlonworldtourvancouvermen" tvg-name="T100 Triathlon World Tour | Vancouver Men (18:15)" tvg-logo="https://content.protriathletes.org/content/images/2024/05/9e4f66d3-1951-404e-ba4f-ae1595e94eae.png" group-title="Eventi Live",T100 Triathlon World Tour | Vancouver Men (18:15)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
