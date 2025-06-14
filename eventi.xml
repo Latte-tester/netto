@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Euro U-21 : Slovakia U21 vs Italy U21</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1PirelliCanadianGrandPrixPractice3">
-    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Practice 3</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614183000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice3">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614183000 +0200" stop="20250614203000 +0200" channel="Formula1PirelliCanadianGrandPrixPractice3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Practice 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1PirelliCanadianGrandPrixQualifying">
     <display-name>Formula 1 : Pirelli Canadian Grand Prix - Qualifying</display-name>
   </channel>
@@ -64,44 +51,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="EuropeanChampionships2025Day1WomensFoilandMensSabreFinalsfromGenoa">
-    <display-name>European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa)</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614182000 +0200" channel="EuropeanChampionships2025Day1WomensFoilandMensSabreFinalsfromGenoa">
-    <title lang="it">Inizia  alle 18:20.</title>
-    <desc lang="it">European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614182000 +0200" stop="20250614202000 +0200" channel="EuropeanChampionships2025Day1WomensFoilandMensSabreFinalsfromGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa)</desc>
-    <category lang="it">Fencing</category>
-  </programme>
-  <channel id="UnitedRugbyChampionshipFinalLeinstervsBulls">
-    <display-name>United Rugby Championship Final : Leinster vs Bulls</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614180000 +0200" channel="UnitedRugbyChampionshipFinalLeinstervsBulls">
-    <title lang="it">Inizia  alle 18:00.</title>
-    <desc lang="it">United Rugby Championship Final : Leinster vs Bulls.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614180000 +0200" stop="20250614200000 +0200" channel="UnitedRugbyChampionshipFinalLeinstervsBulls">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship Final : Leinster vs Bulls</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="T100TriathlonWorldTourVancouverMen">
-    <display-name>T100 Triathlon World Tour | Vancouver Men</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614181500 +0200" channel="T100TriathlonWorldTourVancouverMen">
-    <title lang="it">Inizia  alle 18:15.</title>
-    <desc lang="it">T100 Triathlon World Tour | Vancouver Men.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614181500 +0200" stop="20250614201500 +0200" channel="T100TriathlonWorldTourVancouverMen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">T100 Triathlon World Tour | Vancouver Men</desc>
-    <category lang="it">Triathlon</category>
   </programme>
 </tv>
