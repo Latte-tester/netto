@@ -13,19 +13,6 @@
     <desc lang="it">UEFA Euro U-21 : Slovakia U21 vs Italy U21</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="FIAWEC24HoursofLeMansCareer">
-    <display-name>FIA WEC | 24 Hours of Le Mans Career</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614030000 +0200" channel="FIAWEC24HoursofLeMansCareer">
-    <title lang="it">Inizia  alle 03:00.</title>
-    <desc lang="it">FIA WEC | 24 Hours of Le Mans Career.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614030000 +0200" stop="20250614050000 +0200" channel="FIAWEC24HoursofLeMansCareer">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | 24 Hours of Le Mans Career</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="FIAWECRoadtoLeMans2ndRace">
     <display-name>FIA WEC | Road to Le Mans 2nd Race</display-name>
   </channel>
@@ -116,19 +103,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="UFCFightNightMainCardKamaruUsmanvsJoaquinBuckley">
-    <display-name>UFC Fight Night Main Card : Kamaru Usman vs Joaquin Buckley</display-name>
-  </channel>
-  <programme start="20250614000000 +0200" stop="20250614040000 +0200" channel="UFCFightNightMainCardKamaruUsmanvsJoaquinBuckley">
-    <title lang="it">Inizia  alle 04:00.</title>
-    <desc lang="it">UFC Fight Night Main Card : Kamaru Usman vs Joaquin Buckley.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250614040000 +0200" stop="20250614060000 +0200" channel="UFCFightNightMainCardKamaruUsmanvsJoaquinBuckley">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night Main Card : Kamaru Usman vs Joaquin Buckley</desc>
-    <category lang="it">MMA</category>
   </programme>
   <channel id="ItalySerieAVirtusBolognavsPallacanestroBrescia">
     <display-name>Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia</display-name>
