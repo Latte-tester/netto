@@ -13,32 +13,6 @@
     <desc lang="it">FIFA Club World Cup : PSG vs Atlético Madrid</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
-    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250615000000 +0200" stop="20250615190000 +0200" channel="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
-    <title lang="it">Inizia  alle 19:00.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250615190000 +0200" stop="20250615210000 +0200" channel="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula1PirelliCanadianGrandPrixRace">
-    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20250615000000 +0200" stop="20250615200000 +0200" channel="Formula1PirelliCanadianGrandPrixRace">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250615200000 +0200" stop="20250615220000 +0200" channel="Formula1PirelliCanadianGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="SerieA220242025PlayoffFinalpossiblegame4">
     <display-name>Serie A2 2024/2025-Playoff: Final - possible game 4</display-name>
   </channel>
