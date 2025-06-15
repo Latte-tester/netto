@@ -65,19 +65,6 @@
     <desc lang="it">World Cup | Men Bern | Bouldering | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="TourofSwitzerlandStage4WomenKssnacht1272km">
-    <display-name>Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km)</display-name>
-  </channel>
-  <programme start="20250615000000 +0200" stop="20250615110000 +0200" channel="TourofSwitzerlandStage4WomenKssnacht1272km">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250615110000 +0200" stop="20250615130000 +0200" channel="TourofSwitzerlandStage4WomenKssnacht1272km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="CriteriumduDauphineStage8MenValDArcValCenis1333km">
     <display-name>Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km)</display-name>
   </channel>
