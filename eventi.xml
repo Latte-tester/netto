@@ -52,17 +52,4 @@
     <desc lang="it">Serie A2 2024/2025-Playoff: Final - possible game 4</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="WorldCupMenBernBoulderingFinal">
-    <display-name>World Cup | Men Bern | Bouldering | Final</display-name>
-  </channel>
-  <programme start="20250615000000 +0200" stop="20250615170000 +0200" channel="WorldCupMenBernBoulderingFinal">
-    <title lang="it">Inizia  alle 17:00.</title>
-    <desc lang="it">World Cup | Men Bern | Bouldering | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250615170000 +0200" stop="20250615190000 +0200" channel="WorldCupMenBernBoulderingFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Men Bern | Bouldering | Final</desc>
-    <category lang="it">Climbing</category>
-  </programme>
 </tv>
