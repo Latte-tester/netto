@@ -1,3 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="FIFAClubWorldCupPSGvsAtlticoMadrid">
+    <display-name>FIFA Club World Cup : PSG vs Atlético Madrid</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615210000 +0200" channel="FIFAClubWorldCupPSGvsAtlticoMadrid">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Atlético Madrid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615210000 +0200" stop="20250615230000 +0200" channel="FIFAClubWorldCupPSGvsAtlticoMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Atlético Madrid</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
+    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615190000 +0200" channel="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
+    <title lang="it">Inizia  alle 19:00.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615190000 +0200" stop="20250615210000 +0200" channel="Formula1PirelliCanadianGrandPrixGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1PirelliCanadianGrandPrixRace">
+    <display-name>Formula 1 : Pirelli Canadian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615200000 +0200" channel="Formula1PirelliCanadianGrandPrixRace">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615200000 +0200" stop="20250615220000 +0200" channel="Formula1PirelliCanadianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Pirelli Canadian Grand Prix - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="SerieA220242025PlayoffFinalpossiblegame4">
+    <display-name>Serie A2 2024/2025-Playoff: Final - possible game 4</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615204000 +0200" channel="SerieA220242025PlayoffFinalpossiblegame4">
+    <title lang="it">Inizia  alle 20:40.</title>
+    <desc lang="it">Serie A2 2024/2025-Playoff: Final - possible game 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615204000 +0200" stop="20250615224000 +0200" channel="SerieA220242025PlayoffFinalpossiblegame4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 2024/2025-Playoff: Final - possible game 4</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WorldCupMenBernBoulderingFinal">
+    <display-name>World Cup | Men Bern | Bouldering | Final</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615170000 +0200" channel="WorldCupMenBernBoulderingFinal">
+    <title lang="it">Inizia  alle 17:00.</title>
+    <desc lang="it">World Cup | Men Bern | Bouldering | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615170000 +0200" stop="20250615190000 +0200" channel="WorldCupMenBernBoulderingFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup | Men Bern | Bouldering | Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="TourofSwitzerlandStage4WomenKssnacht1272km">
+    <display-name>Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km)</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615110000 +0200" channel="TourofSwitzerlandStage4WomenKssnacht1272km">
+    <title lang="it">Inizia  alle 11:00.</title>
+    <desc lang="it">Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615110000 +0200" stop="20250615130000 +0200" channel="TourofSwitzerlandStage4WomenKssnacht1272km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Switzerland | Stage 4 Women | Küssnacht (127.2km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="CriteriumduDauphineStage8MenValDArcValCenis1333km">
+    <display-name>Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km)</display-name>
+  </channel>
+  <programme start="20250615000000 +0200" stop="20250615151000 +0200" channel="CriteriumduDauphineStage8MenValDArcValCenis1333km">
+    <title lang="it">Inizia  alle 15:10.</title>
+    <desc lang="it">Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250615151000 +0200" stop="20250615171000 +0200" channel="CriteriumduDauphineStage8MenValDArcValCenis1333km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Criterium du Dauphine | Stage 8 Men | Val'D Arc - Val Cenis (133.3km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
