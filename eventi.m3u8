@@ -11,6 +11,6 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/pre
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofswitzerlandstage4menheidenpiuro1932km" tvg-name="Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)" tvg-logo="http://grandtourofswitzerland.jp/img/logo_bgred.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)
+#EXTINF:-1 tvg-id="tourofswitzerlandstage4menheidenpiuro1932km" tvg-name="Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)" tvg-logo="https://grandtourofswitzerland.jp/img/logo_bgwhite.png" group-title="Eventi Live",Tour of Switzerland | Stage 4 Men | Heiden - Piuro (193.2km) (14:45)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
