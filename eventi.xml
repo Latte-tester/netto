@@ -13,19 +13,6 @@
     <desc lang="it">FIFA Club World Cup : Inter Miami vs Porto</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="LegaABresciavsVirtusBologna">
-    <display-name>Lega A : Brescia vs Virtus Bologna</display-name>
-  </channel>
-  <programme start="20250619000000 +0200" stop="20250619203000 +0200" channel="LegaABresciavsVirtusBologna">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Lega A : Brescia vs Virtus Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250619203000 +0200" stop="20250619223000 +0200" channel="LegaABresciavsVirtusBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lega A : Brescia vs Virtus Bologna</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <channel id="EurobasketWomenItalyWvsSloveniaW">
     <display-name>Eurobasket Women : Italy W vs Slovenia W</display-name>
   </channel>
