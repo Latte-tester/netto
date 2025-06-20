@@ -26,19 +26,6 @@
     <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="UCICrosscountryShortTrackWorldCupWomenEliteValdiSole">
-    <display-name>UCI Cross-country Short Track World Cup | Women Elite | Val di Sole</display-name>
-  </channel>
-  <programme start="20250620000000 +0200" stop="20250620164500 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteValdiSole">
-    <title lang="it">Inizia  alle 16:45.</title>
-    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Val di Sole.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250620164500 +0200" stop="20250620184500 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteValdiSole">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Val di Sole</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="LeagueofNationsJumpingRotterdam">
     <display-name>League of Nations Jumping | Rotterdam</display-name>
   </channel>
