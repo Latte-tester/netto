@@ -13,19 +13,6 @@
     <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula3MSCCruisesAustrianGPRaceSpielberg">
-    <display-name>Formula 3 : MSC Cruises Austrian GP Race - Spielberg</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629083000 +0200" channel="Formula3MSCCruisesAustrianGPRaceSpielberg">
-    <title lang="it">Inizia  alle 08:30.</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Race - Spielberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629083000 +0200" stop="20250629103000 +0200" channel="Formula3MSCCruisesAustrianGPRaceSpielberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : MSC Cruises Austrian GP Race - Spielberg</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="MotoGPDutchGrandPrixWarmUp">
     <display-name>MotoGP : Dutch Grand Prix Warm Up</display-name>
   </channel>
