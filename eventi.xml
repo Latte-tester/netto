@@ -13,32 +13,6 @@
     <desc lang="it">UEFA Women's Euro : Norway vs Finland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula3QatarAirwaysBritishGPRace">
-    <display-name>Formula 3 : Qatar Airways British GP - Race</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706103000 +0200" channel="Formula3QatarAirwaysBritishGPRace">
-    <title lang="it">Inizia  alle 10:30.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706103000 +0200" stop="20250706123000 +0200" channel="Formula3QatarAirwaysBritishGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2QatarAirwaysBritishGPRace">
-    <display-name>Formula 2 : Qatar Airways British GP - Race</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706123000 +0200" channel="Formula2QatarAirwaysBritishGPRace">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706123000 +0200" stop="20250706143000 +0200" channel="Formula2QatarAirwaysBritishGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1QatarAirwaysBritishGPGrandPrixSunday">
     <display-name>Formula 1 : Qatar Airways British GP - Grand Prix Sunday</display-name>
   </channel>
@@ -64,19 +38,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <display-name>Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</display-name>
-  </channel>
-  <programme start="20250706000000 +0200" stop="20250706124500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250706124500 +0200" stop="20250706144500 +0200" channel="GirodItaliaWomenStage1BergamoBergamoTudorITT142km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UCIDownhillWorldCupMenEliteLaThuileMountainBike">
     <display-name>UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike</display-name>
