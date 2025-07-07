@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="UEFAWomensEuroPortugalvsItaly">
-    <display-name>UEFA Women's Euro : Portugal vs Italy</display-name>
-  </channel>
-  <programme start="20250707000000 +0200" stop="20250707210000 +0200" channel="UEFAWomensEuroPortugalvsItaly">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UEFA Women's Euro : Portugal vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250707210000 +0200" stop="20250707230000 +0200" channel="UEFAWomensEuroPortugalvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEFA Women's Euro : Portugal vs Italy</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="UEFAWomensEuroGermanyvsDenmark">
     <display-name>UEFA Women's Euro : Germany vs Denmark</display-name>
   </channel>
