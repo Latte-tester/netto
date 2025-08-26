@@ -13,27 +13,4 @@
     <desc lang="it">The Vuelta a Espa?a: Stage 4 Mountain | 192 km</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="FIVBWorldChampionshipWomenItalyvsBelgium">
-    <display-name>FIVB World Championship Women : Italy vs. Belgium</display-name>
-  </channel>
-  <programme start="20250826000000 +0200" stop="20250826120000 +0200" channel="FIVBWorldChampionshipWomenItalyvsBelgium">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826120000 +0200" stop="20250826140000 +0200" channel="FIVBWorldChampionshipWomenItalyvsBelgium">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250826000000 +0200" stop="20250826120000 +0200" channel="FIVBWorldChampionshipWomenItalyvsBelgium">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826120000 +0200" stop="20250826140000 +0200" channel="FIVBWorldChampionshipWomenItalyvsBelgium">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIVB World Championship Women : Italy vs. Belgium</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
 </tv>
