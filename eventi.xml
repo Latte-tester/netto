@@ -63,17 +63,4 @@
     <desc lang="it">US Open Round 1 | Day 4</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="LaVueltaaEspaaStage5ITT20km">
-    <display-name>La Vuelta a España: Stage 5 ITT | 20 km</display-name>
-  </channel>
-  <programme start="20250827000000 +0200" stop="20250827162000 +0200" channel="LaVueltaaEspaaStage5ITT20km">
-    <title lang="it">Inizia  alle 16:20.</title>
-    <desc lang="it">La Vuelta a España: Stage 5 ITT | 20 km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250827162000 +0200" stop="20250827182000 +0200" channel="LaVueltaaEspaaStage5ITT20km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 5 ITT | 20 km</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
