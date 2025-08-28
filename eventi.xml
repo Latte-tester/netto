@@ -23,29 +23,6 @@
     <desc lang="it">UEFA Conference League : Fiorentina vs Polessya</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="DiamondLeagueT2025ZurichFinalII">
-    <display-name>Diamond League (T2025): Zurich Final II</display-name>
-  </channel>
-  <programme start="20250828000000 +0200" stop="20250828183000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Diamond League (T2025): Zurich Final II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250828183000 +0200" stop="20250828203000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Diamond League (T2025): Zurich Final II</desc>
-    <category lang="it">Athletics</category>
-  </programme>
-  <programme start="20250828000000 +0200" stop="20250828183000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">Diamond League (T2025): Zurich Final II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250828183000 +0200" stop="20250828203000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Diamond League (T2025): Zurich Final II</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="EuroBasketGreecevsItaly">
     <display-name>EuroBasket : Greece vs Italy</display-name>
   </channel>
