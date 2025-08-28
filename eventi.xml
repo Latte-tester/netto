@@ -1,3 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFAConferenceLeagueFiorentinavsPolessya">
+    <display-name>UEFA Conference League : Fiorentina vs Polessya</display-name>
+  </channel>
+  <programme start="20250828000000 +0200" stop="20250828200000 +0200" channel="UEFAConferenceLeagueFiorentinavsPolessya">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">UEFA Conference League : Fiorentina vs Polessya.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828200000 +0200" stop="20250828220000 +0200" channel="UEFAConferenceLeagueFiorentinavsPolessya">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Fiorentina vs Polessya</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828200000 +0200" channel="UEFAConferenceLeagueFiorentinavsPolessya">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">UEFA Conference League : Fiorentina vs Polessya.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828200000 +0200" stop="20250828220000 +0200" channel="UEFAConferenceLeagueFiorentinavsPolessya">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Conference League : Fiorentina vs Polessya</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="USOpenRound1Day5">
+    <display-name>US Open Round 1 | Day 5</display-name>
+  </channel>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828160000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828180000 +0200" channel="USOpenRound1Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="DiamondLeagueT2025ZurichFinalII">
+    <display-name>Diamond League (T2025): Zurich Final II</display-name>
+  </channel>
+  <programme start="20250828000000 +0200" stop="20250828183000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
+    <title lang="it">Inizia  alle 18:30.</title>
+    <desc lang="it">Diamond League (T2025): Zurich Final II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828183000 +0200" stop="20250828203000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Diamond League (T2025): Zurich Final II</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828183000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
+    <title lang="it">Inizia  alle 18:30.</title>
+    <desc lang="it">Diamond League (T2025): Zurich Final II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828183000 +0200" stop="20250828203000 +0200" channel="DiamondLeagueT2025ZurichFinalII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Diamond League (T2025): Zurich Final II</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <channel id="EuroBasketGreecevsItaly">
+    <display-name>EuroBasket : Greece vs Italy</display-name>
+  </channel>
+  <programme start="20250828000000 +0200" stop="20250828203000 +0200" channel="EuroBasketGreecevsItaly">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">EuroBasket : Greece vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828203000 +0200" stop="20250828223000 +0200" channel="EuroBasketGreecevsItaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">EuroBasket : Greece vs Italy</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="LaVueltaaEspaaStage6Mountain170km">
+    <display-name>La Vuelta a España: Stage 6 Mountain | 170 km</display-name>
+  </channel>
+  <programme start="20250828000000 +0200" stop="20250828145000 +0200" channel="LaVueltaaEspaaStage6Mountain170km">
+    <title lang="it">Inizia  alle 14:50.</title>
+    <desc lang="it">La Vuelta a España: Stage 6 Mountain | 170 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250828145000 +0200" stop="20250828165000 +0200" channel="LaVueltaaEspaaStage6Mountain170km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">La Vuelta a España: Stage 6 Mountain | 170 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
