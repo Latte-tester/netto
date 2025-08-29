@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Latte-tester/netto/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
@@ -19,10 +19,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
@@ -46,10 +46,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
@@ -79,10 +79,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/843891896/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/index.m3u8
@@ -91,10 +91,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="27.twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/608774683/index.m3u8
@@ -346,10 +346,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1572866962
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
@@ -364,28 +364,28 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
@@ -439,10 +439,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1284441949
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
@@ -469,22 +469,22 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7 (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
@@ -526,28 +526,28 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2265727942
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3938501125/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -589,10 +589,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
@@ -781,10 +781,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -811,10 +811,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4137427510
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3156092639/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008151733/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3803638765/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3803638765/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1521821490/index.m3u8
@@ -910,16 +910,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/803540254/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
-
-#EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (2)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
 
+#EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (2)
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
+
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/881846038/index.m3u8
@@ -994,10 +994,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2952884641
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1232565681/index.m3u8
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8
@@ -1273,12 +1273,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
-https://exemple.m3u8
-
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1540,10 +1534,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2346570201/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Albania", 24 KITCHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1845492017/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1629878879/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Albania", 24 KITCHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1629878879/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1845492017/index.m3u8
 
 #EXTINF:-1 tvg-name="3 PLUS (1)" group-title="Albania", 3 PLUS (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3601055712/index.m3u8
@@ -1615,10 +1609,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/967928593/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3225026685/index.m3u8
 
 #EXTINF:-1 tvg-name="APOLLON TV" group-title="Albania", APOLLON TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/901526619/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/963000117/index.m3u8
 
 #EXTINF:-1 tvg-name="APOLLON TV" group-title="Albania", APOLLON TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/963000117/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/901526619/index.m3u8
 
 #EXTINF:-1 tvg-name="ARABIYA (FHD) (1)" group-title="Albania", ARABIYA (FHD) (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3983844347/index.m3u8
@@ -1660,10 +1654,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/361330240/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1395074662/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 1" group-title="Albania", ART SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1729459361/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3586832779/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 1" group-title="Albania", ART SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3586832779/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1729459361/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 1 HD (1)" group-title="Albania", ART SPORT 1 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1144238417/index.m3u8
@@ -1678,10 +1672,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/548736625/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3401365170/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3" group-title="Albania", ART SPORT 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500508609/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2936728299/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3" group-title="Albania", ART SPORT 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2936728299/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500508609/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3 HD (1)" group-title="Albania", ART SPORT 3 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/102151724/index.m3u8
@@ -1774,10 +1768,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/242611137/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/722381466/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Albania", BOOMERANG
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4153347955/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4119550063/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Albania", BOOMERANG
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4119550063/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4153347955/index.m3u8
 
 #EXTINF:-1 tvg-name="BUBBLE" group-title="Albania", BUBBLE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/99684662/index.m3u8
@@ -1990,37 +1984,37 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1341499575
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1695721742/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Albania", EUROSPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3227015820/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1921488806/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Albania", EUROSPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1921488806/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3227015820/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="Albania", EUROSPORT 1 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/932736266/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2281185372/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/891809142/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/891809142/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2281185372/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" group-title="Albania", EUROSPORT 2 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1882724314/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER HISTORI" group-title="Albania", EXPLORER HISTORI
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/255647294/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4011875202/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER HISTORI" group-title="Albania", EXPLORER HISTORI
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4011875202/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/255647294/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER HISTORI (1)" group-title="Albania", EXPLORER HISTORI (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241397723/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER NATYRA" group-title="Albania", EXPLORER NATYRA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/167372315/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2928231878/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER NATYRA" group-title="Albania", EXPLORER NATYRA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2928231878/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/167372315/index.m3u8
 
 #EXTINF:-1 tvg-name="EXPLORER NATYRA (1)" group-title="Albania", EXPLORER NATYRA (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4260907450/index.m3u8
@@ -2143,10 +2137,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1736732835
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1984852533/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM THRILLER" group-title="Albania", FILM THRILLER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/43666676/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/696506922/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM THRILLER" group-title="Albania", FILM THRILLER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/696506922/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/43666676/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM THRILLER (1)" group-title="Albania", FILM THRILLER (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/779163990/index.m3u8
@@ -2251,10 +2245,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753409304
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3772861659/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX MOVIES" group-title="Albania", FOX MOVIES
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008034894/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3213949728/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX MOVIES" group-title="Albania", FOX MOVIES
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3213949728/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008034894/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLD 4" group-title="Albania", GOLD 4
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/221329206/index.m3u8
@@ -2353,22 +2347,22 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3221286008
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1914712168/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4212188508/index.m3u8
-
-#EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241027656/index.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
+#EXTINF:-1 tvg-name="KANAL 10" group-title="Albania", KANAL 10
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4212188508/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3007582774/index.m3u8
 
-#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2677334340/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2555180624/index.m3u8
+
+#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2677334340/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7 (1)" group-title="Albania", KANALI 7 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/271539603/index.m3u8
@@ -2392,10 +2386,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/532993341/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2085629786/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA" group-title="Albania", KLAN KOSOVA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1123258362/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4029432528/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA" group-title="Albania", KLAN KOSOVA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4029432528/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1123258362/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN KOSOVA (1)" group-title="Albania", KLAN KOSOVA (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3040065660/index.m3u8
@@ -2539,10 +2533,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3453708250
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1007948568/index.m3u8
 
 #EXTINF:-1 tvg-name="LIRIA" group-title="Albania", LIRIA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3016844833/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3726501858/index.m3u8
 
 #EXTINF:-1 tvg-name="LIRIA" group-title="Albania", LIRIA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3726501858/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3016844833/index.m3u8
 
 #EXTINF:-1 tvg-name="LIVING" group-title="Albania", LIVING
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2620524960/index.m3u8
@@ -2623,10 +2617,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3383574772
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3663179118/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Albania", NAT GEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3937938623/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/829890668/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Albania", NAT GEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/829890668/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3937938623/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Albania", NAT GEO WILD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1793673705/index.m3u8
@@ -2767,10 +2761,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1849114921
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/832443653/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1" group-title="Albania", RTK 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/335723640/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2043559355/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1" group-title="Albania", RTK 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2043559355/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/335723640/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1 (1)" group-title="Albania", RTK 1 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2430389054/index.m3u8
@@ -2851,10 +2845,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1779753158
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2315806074/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KORCA" group-title="Albania", RTSH KORCA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3143932250/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3082721844/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KORCA" group-title="Albania", RTSH KORCA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3082721844/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3143932250/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH KUVEND" group-title="Albania", RTSH KUVEND
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1588250776/index.m3u8
@@ -2941,10 +2935,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/674789922/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1831305358/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 POPULLORE" group-title="Albania", RTV 21 POPULLORE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2165126990/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1628549874/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 POPULLORE" group-title="Albania", RTV 21 POPULLORE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1628549874/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2165126990/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 POPULLORE (1)" group-title="Albania", RTV 21 POPULLORE (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1929346731/index.m3u8
@@ -2983,10 +2977,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3377534818
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1982097006/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV ISLAM" group-title="Albania", RTV ISLAM
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1024195319/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1057992171/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV ISLAM" group-title="Albania", RTV ISLAM
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1057992171/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1024195319/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV ISLAM (1)" group-title="Albania", RTV ISLAM (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2011487496/index.m3u8
@@ -3211,10 +3205,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3359578333
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/906547600/index.m3u8
 
 #EXTINF:-1 tvg-name="T7" group-title="Albania", T7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3082060898/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3863916346/index.m3u8
 
 #EXTINF:-1 tvg-name="T7" group-title="Albania", T7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3863916346/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3082060898/index.m3u8
 
 #EXTINF:-1 tvg-name="T7 HD (1)" group-title="Albania", T7 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3783716731/index.m3u8
@@ -3481,10 +3475,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1325107495
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1805478397/index.m3u8
 
 #EXTINF:-1 tvg-name="TURBO CHANNEL" group-title="Albania", TURBO CHANNEL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4173247264/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3550946814/index.m3u8
 
 #EXTINF:-1 tvg-name="TURBO CHANNEL" group-title="Albania", TURBO CHANNEL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3550946814/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4173247264/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 21 MACEDONIA" group-title="Albania", TV 21 MACEDONIA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3087469928/index.m3u8
@@ -7948,10 +7942,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/197875554/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1973649955/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/802245103/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/587942529/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/587942529/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/802245103/index.m3u8
 
 #EXTINF:-1 tvg-name="ALFA TV" group-title="Balkans", ALFA TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/572109402/index.m3u8
@@ -8083,10 +8077,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1561391128
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1595188996/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
 
 #EXTINF:-1 tvg-name="BN" group-title="Balkans", BN
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1545863727/index.m3u8
@@ -8296,10 +8290,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3126312793
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/280202434/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
 
 #EXTINF:-1 tvg-name="DOKU TV" group-title="Balkans", DOKU TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1778938190/index.m3u8
@@ -8341,16 +8335,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4292443371
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1308205307/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Balkans", EUROSPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/330188485/index.m3u8
-
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Balkans", EUROSPORT 1
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2708573167/index.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Balkans", EUROSPORT 1
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/330188485/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3872518463/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
 
 #EXTINF:-1 tvg-name="FACE TV" group-title="Balkans", FACE TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/805398492/index.m3u8
@@ -8455,10 +8449,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/426023763/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1368386480/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO" group-title="Balkans", HBO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3988502808/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2424553859/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO" group-title="Balkans", HBO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2424553859/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3988502808/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2" group-title="Balkans", HBO 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3828451451/index.m3u8
@@ -8695,10 +8689,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3896095046
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/786558223/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/360492582/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1749341885/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1749341885/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/360492582/index.m3u8
 
 #EXTINF:-1 tvg-name="OTV VALENTINO" group-title="Balkans", OTV VALENTINO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2426904498/index.m3u8
@@ -8743,10 +8737,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/241827126/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1266026394/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BH" group-title="Balkans", PINK BH
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1354766451/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2333021344/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BH" group-title="Balkans", PINK BH
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2333021344/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1354766451/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BRAVO (1)" group-title="Balkans", PINK BRAVO (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1858421691/index.m3u8
@@ -8998,10 +8992,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3251758357
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1930307647/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL LIVING" group-title="Balkans", RTL LIVING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2983585576/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3171935302/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL LIVING" group-title="Balkans", RTL LIVING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3171935302/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2983585576/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Balkans", RTL PASSION
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2764286316/index.m3u8
@@ -9403,10 +9397,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/131717508/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/442015131/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2905091345/index.m3u8
@@ -9442,10 +9436,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2032068489
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2977990447/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Bulgaria", CARTOON NETWORK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/376803656/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4134081780/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Bulgaria", CARTOON NETWORK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4134081780/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/376803656/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS REALITY" group-title="Bulgaria", CBS REALITY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143126970/index.m3u8
@@ -9457,10 +9451,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/153846227/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/934472657/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX" group-title="Bulgaria", CINEMAX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3577968635/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3533398255/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX" group-title="Bulgaria", CINEMAX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3533398255/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3577968635/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3988717339/index.m3u8
@@ -9505,10 +9499,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/782948666/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3984233559/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT 2" group-title="Bulgaria", DIEMA SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3591341829/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2945858102/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT 2" group-title="Bulgaria", DIEMA SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2945858102/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3591341829/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT 3" group-title="Bulgaria", DIEMA SPORT 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3949964981/index.m3u8
@@ -9604,10 +9598,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3692629984
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4144011582/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX" group-title="Bulgaria", FOX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3214541036/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3236112686/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX" group-title="Bulgaria", FOX
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3236112686/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3214541036/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX CRIME" group-title="Bulgaria", FOX CRIME
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1793487407/index.m3u8
@@ -9619,16 +9613,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1715237185
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2135288369/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO" group-title="Bulgaria", HBO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2180719613/index.m3u8
-
-#EXTINF:-1 tvg-name="HBO" group-title="Bulgaria", HBO
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4269935167/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO 2" group-title="Bulgaria", HBO 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1822214929/index.m3u8
+#EXTINF:-1 tvg-name="HBO" group-title="Bulgaria", HBO
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2180719613/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2" group-title="Bulgaria", HBO 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1984286700/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" group-title="Bulgaria", HBO 2
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1822214929/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 3" group-title="Bulgaria", HBO 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1375527585/index.m3u8
@@ -9691,16 +9685,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421125992
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2539971589/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/320132024/index.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3502546645/index.m3u8
 
-#EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/779418120/index.m3u8
+#EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/320132024/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3986995045/index.m3u8
+
+#EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2622760472/index.m3u8
@@ -9841,10 +9835,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/618262489/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1226141210/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Bulgaria", TV 1000
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3687579037/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3692292745/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Bulgaria", TV 1000
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3692292745/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3687579037/index.m3u8
 
 #EXTINF:-1 tvg-name="TV EVROPA" group-title="Bulgaria", TV EVROPA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2473349072/index.m3u8
@@ -10219,10 +10213,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/576693993/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3596486984/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="France", BEIN SPORTS 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3520000914/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/304004863/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="France", BEIN SPORTS 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/304004863/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3520000914/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 (1)" group-title="France", BEIN SPORTS 3 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2683082226/index.m3u8
@@ -10621,10 +10615,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/6981957/in
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/837868540/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ BOX OFFICE" group-title="France", CANAL+ BOX OFFICE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3655983806/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/972384002/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ BOX OFFICE" group-title="France", CANAL+ BOX OFFICE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/972384002/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3655983806/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ CINEMA" group-title="France", CANAL+ CINEMA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3980730104/index.m3u8
@@ -10699,10 +10693,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/128077399/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/599931871/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/907568283/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4123535862/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4123535862/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/907568283/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES FHD" group-title="France", CANAL+ SERIES FHD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2141653939/index.m3u8
@@ -10897,10 +10891,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1186822222
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1314605414/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ PREMIER" group-title="France", CINE+ PREMIER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618520893/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/343831120/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ PREMIER" group-title="France", CINE+ PREMIER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/343831120/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618520893/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ PREMIER FHD" group-title="France", CINE+ PREMIER FHD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/316430315/index.m3u8
@@ -11164,10 +11158,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1067363188
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2955220899/index.m3u8
 
 #EXTINF:-1 tvg-name="EQUIDIA" group-title="France", EQUIDIA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1885563251/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1790602638/index.m3u8
 
 #EXTINF:-1 tvg-name="EQUIDIA" group-title="France", EQUIDIA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1790602638/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1885563251/index.m3u8
 
 #EXTINF:-1 tvg-name="EQUIDIA HD" group-title="France", EQUIDIA HD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3860273832/index.m3u8
@@ -11188,10 +11182,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1805253114
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/288715549/index.m3u8
 
 #EXTINF:-1 tvg-name="EURONEWS" group-title="France", EURONEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1136778023/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2551109620/index.m3u8
 
 #EXTINF:-1 tvg-name="EURONEWS" group-title="France", EURONEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2551109620/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1136778023/index.m3u8
 
 #EXTINF:-1 tvg-name="EURONEWS (1)" group-title="France", EURONEWS (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/584773960/index.m3u8
@@ -11212,10 +11206,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2172924275
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1801327897/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="France", EUROSPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2585190032/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2530008574/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="France", EUROSPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2530008574/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2585190032/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" group-title="France", EUROSPORT 2 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3914532448/index.m3u8
@@ -11290,10 +11284,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2875346882
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2897893590/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 3" group-title="France", FRANCE 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/156852682/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3533073689/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 3" group-title="France", FRANCE 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3533073689/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/156852682/index.m3u8
 
 #EXTINF:-1 tvg-name="FRANCE 3 HD" group-title="France", FRANCE 3 HD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/183277419/index.m3u8
@@ -11407,10 +11401,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/665994240/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/985897714/index.m3u8
 
 #EXTINF:-1 tvg-name="I24 NEWS" group-title="France", I24 NEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3150455692/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1611083615/index.m3u8
 
 #EXTINF:-1 tvg-name="I24 NEWS" group-title="France", I24 NEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1611083615/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3150455692/index.m3u8
 
 #EXTINF:-1 tvg-name="IMEARTH" group-title="France", IMEARTH
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2487295275/index.m3u8
@@ -11437,10 +11431,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3791358263
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2863072722/index.m3u8
 
 #EXTINF:-1 tvg-name="J ONE" group-title="France", J ONE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1635196197/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/504247527/index.m3u8
 
 #EXTINF:-1 tvg-name="J ONE" group-title="France", J ONE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/504247527/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1635196197/index.m3u8
 
 #EXTINF:-1 tvg-name="J-ONE (1)" group-title="France", J-ONE (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/874035777/index.m3u8
@@ -11470,10 +11464,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3143265587
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4244248547/index.m3u8
 
 #EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France", LA CHAINE METEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/113813193/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2136022010/index.m3u8
 
 #EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France", LA CHAINE METEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2136022010/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/113813193/index.m3u8
 
 #EXTINF:-1 tvg-name="LA TROIS" group-title="France", LA TROIS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2866202423/index.m3u8
@@ -11548,10 +11542,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3279917058
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/235149497/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS" group-title="France", MANGAS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/139408412/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1703130591/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS" group-title="France", MANGAS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1703130591/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/139408412/index.m3u8
 
 #EXTINF:-1 tvg-name="MANGAS (1)" group-title="France", MANGAS (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3781018265/index.m3u8
@@ -11788,10 +11782,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/215687074/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1626033852/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ 12" group-title="France", NRJ 12
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/320790022/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2127716293/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ 12" group-title="France", NRJ 12
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2127716293/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/320790022/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ 12 (1)" group-title="France", NRJ 12 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4195100803/index.m3u8
@@ -11995,10 +11989,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1479441370
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2370188978/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+" group-title="France", POLAR+
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143816874/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/302288233/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+" group-title="France", POLAR+
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/302288233/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143816874/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+ FHD" group-title="France", POLAR+ FHD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3449247132/index.m3u8
@@ -12085,10 +12079,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2957270266
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2606615076/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" group-title="France", RMC SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1756600583/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1684642409/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" group-title="France", RMC SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1684642409/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1756600583/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1 (1)" group-title="France", RMC SPORT 1 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/388776601/index.m3u8
@@ -12133,10 +12127,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2639500260
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2687744596/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 16" group-title="France", RMC SPORT 16
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1431047598/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3885219972/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 16" group-title="France", RMC SPORT 16
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3885219972/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1431047598/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 17" group-title="France", RMC SPORT 17
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3673418036/index.m3u8
@@ -12226,10 +12220,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3945361353
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1705245558/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 9" group-title="France", RMC SPORT 9
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1489228486/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1410978216/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 9" group-title="France", RMC SPORT 9
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1410978216/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1489228486/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT LIVE 10 HD (1)" group-title="France", RMC SPORT LIVE 10 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2045698089/index.m3u8
@@ -12313,10 +12307,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1426079773
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1389909769/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9" group-title="France", RTL 9
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1631656799/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/506999453/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9" group-title="France", RTL 9
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/506999453/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1631656799/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9 (1)" group-title="France", RTL 9 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2938874346/index.m3u8
@@ -12349,10 +12343,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1830664956
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/466214058/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB (1)" group-title="France", SERIE CLUB (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/328726150/index.m3u8
@@ -12475,10 +12469,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/610142951/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4185021864/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1149078876/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/361211396/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/361211396/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1149078876/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC HD" group-title="France", TMC HD
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/354095306/index.m3u8
@@ -12529,10 +12523,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1569435048
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/548656435/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2320044455/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2375091891/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2375091891/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2320044455/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH (1)" group-title="France", TV BREIZH (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/36354660/index.m3u8
@@ -12709,10 +12703,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2739790843
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2993796901/index.m3u8
 
 #EXTINF:-1 tvg-name="ARD ALPHA" group-title="Germany", ARD ALPHA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3255649955/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3221819839/index.m3u8
 
 #EXTINF:-1 tvg-name="ARD ALPHA" group-title="Germany", ARD ALPHA
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3221819839/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3255649955/index.m3u8
 
 #EXTINF:-1 tvg-name="ARD ALPHA (1)" group-title="Germany", ARD ALPHA (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2330342976/index.m3u8
@@ -12724,10 +12718,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/550012320/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/914582715/index.m3u8
 
 #EXTINF:-1 tvg-name="ARTE" group-title="Germany", ARTE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1216857802/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/939454216/index.m3u8
 
 #EXTINF:-1 tvg-name="ARTE" group-title="Germany", ARTE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/939454216/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1216857802/index.m3u8
 
 #EXTINF:-1 tvg-name="ARTE (1)" group-title="Germany", ARTE (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2263708799/index.m3u8
@@ -13039,10 +13033,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3336673893
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2331252043/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1389052779/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1209157526/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1209157526/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1389052779/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2 (MATCH TIME) HD (1)" group-title="Germany", DAZN 2 (MATCH TIME) HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2923762838/index.m3u8
@@ -13480,16 +13474,16 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3829617867
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/381261505/index.m3u8
 
 #EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany", HEIMAT KANAL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/482977403/index.m3u8
-
-#EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany", HEIMAT KANAL
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743017750/index.m3u8
 
-#EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1164870618/index.m3u8
+#EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany", HEIMAT KANAL
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/482977403/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/974629400/index.m3u8
+
+#EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1164870618/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV (1)" group-title="Germany", HGTV (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2332307823/index.m3u8
@@ -13507,10 +13501,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/580268732/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4013755273/index.m3u8
 
 #EXTINF:-1 tvg-name="HR FERNSEHEN" group-title="Germany", HR FERNSEHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/866580164/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4034313129/index.m3u8
 
 #EXTINF:-1 tvg-name="HR FERNSEHEN" group-title="Germany", HR FERNSEHEN
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4034313129/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/866580164/index.m3u8
 
 #EXTINF:-1 tvg-name="HR-FERNSEHEN HD (1)" group-title="Germany", HR-FERNSEHEN HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1583736075/index.m3u8
@@ -13717,10 +13711,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2778934529
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1762209183/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 10" group-title="Germany", MAGENTA SPORT 10
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1438750126/index.m3u8
@@ -13756,10 +13750,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3890301374
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1706155631/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 20" group-title="Germany", MAGENTA SPORT 20
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3545622272/index.m3u8
@@ -13897,10 +13891,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2633164625
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/960731050/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU" group-title="Germany", N24 DOKU
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1521199376/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1567866372/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU" group-title="Germany", N24 DOKU
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1567866372/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1521199376/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU HD (1)" group-title="Germany", N24 DOKU HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3084650651/index.m3u8
@@ -13909,19 +13903,19 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3084650651
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/825882949/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO (1)" group-title="Germany", NAT GEO (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2169389937/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Germany", NAT GEO WILD
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/325169620/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3501325497/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Germany", NAT GEO WILD
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3501325497/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/325169620/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD (1)" group-title="Germany", NAT GEO WILD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2660473561/index.m3u8
@@ -13990,10 +13984,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2137936559
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/855045177/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO HEVC (1)" group-title="Germany", NITRO HEVC (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3085198764/index.m3u8
@@ -14002,10 +13996,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3085198764
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1085431518/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 HAMBURG" group-title="Germany", NOA 4 HAMBURG
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2289767023/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2741142705/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 HAMBURG" group-title="Germany", NOA 4 HAMBURG
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2741142705/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2289767023/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 NORDERSTEDT" group-title="Germany", NOA 4 NORDERSTEDT
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2997620179/index.m3u8
@@ -14308,10 +14302,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/925242509/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2202614857/index.m3u8
 
 #EXTINF:-1 tvg-name="ROMANCE TV" group-title="Germany", ROMANCE TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2747900754/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2937299004/index.m3u8
 
 #EXTINF:-1 tvg-name="ROMANCE TV" group-title="Germany", ROMANCE TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2937299004/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2747900754/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL" group-title="Germany", RTL
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3755683281/index.m3u8
@@ -14323,10 +14317,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2732807498
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1758367531/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2398236131/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2364963583/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2364963583/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2398236131/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME (1)" group-title="Germany", RTL CRIME (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3323550976/index.m3u8
@@ -14344,10 +14338,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2728959195
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2728119673/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL LIVING" group-title="Germany", RTL LIVING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2029274414/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1949189696/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL LIVING" group-title="Germany", RTL LIVING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1949189696/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2029274414/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL LIVING (1)" group-title="Germany", RTL LIVING (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/196189662/index.m3u8
@@ -14371,10 +14365,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1104227509
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/141752470/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION (1)" group-title="Germany", RTL PASSION (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131644541/index.m3u8
@@ -14575,10 +14569,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2299297180
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3448764623/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1" group-title="Germany", SAT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2558350352/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4122072531/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1" group-title="Germany", SAT 1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4122072531/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2558350352/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1 EMOTIONS" group-title="Germany", SAT 1 EMOTIONS
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1294512806/index.m3u8
@@ -14920,10 +14914,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2735828708
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3962342087/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION" group-title="Germany", SKY CINEMA ACTION
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1617648799/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3129337035/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION" group-title="Germany", SKY CINEMA ACTION
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3129337035/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1617648799/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION HD (1)" group-title="Germany", SKY CINEMA ACTION HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4140398534/index.m3u8
@@ -14947,10 +14941,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4183661289
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1779919359/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS" group-title="Germany", SKY CINEMA CLASSICS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/62442537/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3111314189/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS" group-title="Germany", SKY CINEMA CLASSICS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3111314189/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/62442537/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA CLASSICS HD (1)" group-title="Germany", SKY CINEMA CLASSICS HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/185991845/index.m3u8
@@ -14977,10 +14971,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1938198164
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/750680993/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1091552264/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2615245916/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2615245916/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1091552264/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD+ (1)" group-title="Germany", SKY CINEMA FAMILY HD+ (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1988074518/index.m3u8
@@ -15007,10 +15001,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3650034867
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2331906255/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany", SKY CINEMA NOSTALGIE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/29738879/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/631616247/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany", SKY CINEMA NOSTALGIE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/631616247/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/29738879/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN" group-title="Germany", SKY CINEMA PREMIEREN
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4117277461/index.m3u8
@@ -15037,10 +15031,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1743038820
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4265879600/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL HD (1)" group-title="Germany", SKY CINEMA SPECIAL HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3150979982/index.m3u8
@@ -15154,10 +15148,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/680919359/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/91673989/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2339352940/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2276831746/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2276831746/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2339352940/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT" group-title="Germany", SKY SELECT
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1870257759/index.m3u8
@@ -15244,10 +15238,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/734703369/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421987543/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5 (1)" group-title="Germany", SKY SELECT 5 (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/380274361/index.m3u8
@@ -15451,10 +15445,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/294002589/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/639601056/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Germany", SKY SPORT F1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/572249867/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3788216934/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Germany", SKY SPORT F1
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3788216934/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/572249867/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1 HD (H265) (1)" group-title="Germany", SKY SPORT F1 HD (H265) (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3305340365/index.m3u8
@@ -15478,10 +15472,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/756758171/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/100835397/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT NEWS" group-title="Germany", SKY SPORT NEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2388471048/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4156854331/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT NEWS" group-title="Germany", SKY SPORT NEWS
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4156854331/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2388471048/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT NEWS (1)" group-title="Germany", SKY SPORT NEWS (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2649186974/index.m3u8
@@ -15682,10 +15676,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3399533194
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500623417/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="Germany", SYFY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3764999351/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2668658037/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="Germany", SYFY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2668658037/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3764999351/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY HD (1)" group-title="Germany", SYFY HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1680063305/index.m3u8
@@ -15694,10 +15688,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1680063305
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3160192054/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU 24" group-title="Germany", TAGESSCHAU 24
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3237745973/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3957687275/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU 24" group-title="Germany", TAGESSCHAU 24
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3957687275/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3237745973/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU24 HD (1)" group-title="Germany", TAGESSCHAU24 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/186690144/index.m3u8
@@ -15712,10 +15706,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3093655427
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/512135720/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/950216500/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/578429897/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/578429897/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/950216500/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5 TV (1)" group-title="Germany", TELE 5 TV (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1693994894/index.m3u8
@@ -15883,10 +15877,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3897746736
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1364897583/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV" group-title="Germany", UNIVERSAL TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3882504973/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/616177248/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV" group-title="Germany", UNIVERSAL TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/616177248/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3882504973/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV HD (1)" group-title="Germany", UNIVERSAL TV HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/269260313/index.m3u8
@@ -15997,10 +15991,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2171614967
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2422241584/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT (1)" group-title="Germany", WELT (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/742772823/index.m3u8
@@ -16057,10 +16051,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2357166742
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2866292554/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO" group-title="Germany", ZDF INFO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/502933258/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/438448158/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO" group-title="Germany", ZDF INFO
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/438448158/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/502933258/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO HD (1)" group-title="Germany", ZDF INFO HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2309304070/index.m3u8
@@ -16122,9 +16116,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/116299718/
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3911047486/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
 
@@ -16156,21 +16150,21 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
 
@@ -16212,15 +16206,15 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1264775727/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008151733/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3803638765/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3008151733/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1521821490/index.m3u8
 
@@ -16326,13 +16320,13 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1370869299
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3027903278/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/775530063/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/881846038/index.m3u8
 
@@ -16434,21 +16428,21 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1711134994
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2627662768/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
 
@@ -16464,9 +16458,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
 
@@ -16486,9 +16480,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224/
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/843891896/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/index.m3u8
 
@@ -16510,9 +16504,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4031388312
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3656080408/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8
 
@@ -16568,9 +16562,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
@@ -16580,21 +16574,21 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
@@ -16634,9 +16628,9 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1284441949
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
@@ -16654,17 +16648,17 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
-
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
+
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
 
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
 
@@ -16940,10 +16934,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1865843041
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3723054155/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC FIRST" group-title="Netherlands", BBC FIRST
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2288615636/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2742031882/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC FIRST" group-title="Netherlands", BBC FIRST
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2742031882/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2288615636/index.m3u8
 
 #EXTINF:-1 tvg-name="BVN" group-title="Netherlands", BVN
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3668541006/index.m3u8
@@ -16964,10 +16958,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2455610291
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1019029636/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Netherlands", COMEDY CENTRAL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1269765291/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1068119176/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Netherlands", COMEDY CENTRAL
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1068119176/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1269765291/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL EXTRA" group-title="Netherlands", COMEDY CENTRAL EXTRA
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1396002728/index.m3u8
@@ -17045,10 +17039,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/697377561/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/625680503/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2540436583/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2540436583/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2736390217/index.m3u8
@@ -17069,10 +17063,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/330363772/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3322172799/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/453029930/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3637574983/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3637574983/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/453029930/index.m3u8
 
 #EXTINF:-1 tvg-name="FASHION TV" group-title="Netherlands", FASHION TV
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1467439935/index.m3u8
@@ -17357,10 +17351,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3430280912
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3755034524/index.m3u8
 
 #EXTINF:-1 tvg-name="PEBBLE TV" group-title="Netherlands", PEBBLE TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3382499986/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3800386636/index.m3u8
 
 #EXTINF:-1 tvg-name="PEBBLE TV" group-title="Netherlands", PEBBLE TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3800386636/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3382499986/index.m3u8
 
 #EXTINF:-1 tvg-name="QMUSIC" group-title="Netherlands", QMUSIC
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4157396273/index.m3u8
@@ -17393,10 +17387,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4226462509
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4193182769/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 5" group-title="Netherlands", RTL 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3330972317/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3297693057/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 5" group-title="Netherlands", RTL 5
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3297693057/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3330972317/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 7" group-title="Netherlands", RTL 7
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3159017981/index.m3u8
@@ -17663,10 +17657,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1643798837
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1167725757/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/459281257/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/459281257/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT SELECT" group-title="Netherlands", ZIGGO SPORT SELECT
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/739290895/index.m3u8
@@ -23129,10 +23123,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2880529208
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2777121053/index.m3u8
 
 #EXTINF:-1 tvg-name="A2" group-title="Turkey", A2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1735806851/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/759245925/index.m3u8
 
 #EXTINF:-1 tvg-name="A2" group-title="Turkey", A2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/759245925/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1735806851/index.m3u8
 
 #EXTINF:-1 tvg-name="A2 HD (1)" group-title="Turkey", A2 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/867875861/index.m3u8
@@ -23408,22 +23402,22 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3041245607
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1873478131/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="Turkey", BEIN MOVIES ACTION 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2617318386/index.m3u8
-
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="Turkey", BEIN MOVIES ACTION 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/650851542/index.m3u8
 
-#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="Turkey", BEIN MOVIES ACTION 2
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2617318386/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1322228068/index.m3u8
 
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/942987224/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2120218356/index.m3u8
@@ -23501,10 +23495,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/662179620/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/593493860/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Turkey", BEIN SPORTS 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1447241506/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2509466191/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Turkey", BEIN SPORTS 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2509466191/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1447241506/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 HD (1)" group-title="Turkey", BEIN SPORTS 2 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2851539143/index.m3u8
@@ -23516,10 +23510,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3236362911
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3694662475/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Turkey", BEIN SPORTS 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1797459602/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2834514943/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Turkey", BEIN SPORTS 3
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2834514943/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1797459602/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD (1)" group-title="Turkey", BEIN SPORTS 3 HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1700595801/index.m3u8
@@ -24317,10 +24311,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2207104549
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4090141978/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D" group-title="Turkey", EURO D
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3358854668/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2784530383/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D" group-title="Turkey", EURO D
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2784530383/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3358854668/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D (1)" group-title="Turkey", EURO D (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1290434890/index.m3u8
@@ -25091,10 +25085,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4190426847
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1865892469/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Turkey", LOVE NATURE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2593800839/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2520793577/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Turkey", LOVE NATURE
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2520793577/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2593800839/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE HD (1)" group-title="Turkey", LOVE NATURE HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3309481234/index.m3u8
@@ -25571,10 +25565,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3346549722
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3718336295/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Turkey", S SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1313768516/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1234604880/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Turkey", S SPORT 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1234604880/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1313768516/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT+3 MAC SAATI (1)" group-title="Turkey", S SPORT+3 MAC SAATI (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3269372326/index.m3u8
@@ -25700,10 +25694,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2009772533
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1880270561/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" group-title="Turkey", SHOW TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2485009235/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" group-title="Turkey", SHOW TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2395422638/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2485009235/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV FHD (1)" group-title="Turkey", SHOW TV FHD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1449499865/index.m3u8
@@ -25874,10 +25868,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1134124382
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3209892863/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" group-title="Turkey", STAR TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/863472446/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/699305923/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" group-title="Turkey", STAR TV
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/699305923/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/863472446/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV FHD (1)" group-title="Turkey", STAR TV FHD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2020035128/index.m3u8
@@ -26009,10 +26003,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3475377621
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2302552744/index.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" group-title="Turkey", TEVE 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2549900211/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4197507696/index.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" group-title="Turkey", TEVE 2
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4197507696/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2549900211/index.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2 FHD (1)" group-title="Turkey", TEVE 2 FHD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/4229529558/index.m3u8
@@ -26225,10 +26219,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3340997026
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/836826697/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK RAW (1)" group-title="Turkey", TRT COCUK RAW (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/3979837190/index.m3u8
@@ -26249,10 +26243,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2287658033
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/17020398/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" group-title="Turkey", TRT HABER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2003703357/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890976041/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" group-title="Turkey", TRT HABER
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/1890976041/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2003703357/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER HD (1)" group-title="Turkey", TRT HABER HD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2579401878/index.m3u8
@@ -26285,10 +26279,10 @@ https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/433581315/
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/550045102/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
+https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR FHD (1)" group-title="Turkey", TRT SPOR FHD (1)
 https://sinetech-nettvto.hf.space/proxy/m3u?url=https://vavoo.to/play/2952828245/index.m3u8
