@@ -78,6 +78,10 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -98,6 +102,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -118,6 +126,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "156"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -128,6 +140,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -148,6 +164,30 @@
                     {
                         "channel_name": "Floracing",
                         "channel_id": "161"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Boone Speedway",
+                "channels": [
+                    {
+                        "channel_name": "IMCA.TV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Dells Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -158,6 +198,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -188,6 +232,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -198,6 +246,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -10039,100 +10091,6 @@
                 ]
             },
             {
-                "time": "12:00",
-                "event": "Denmark - Super Liga : Silkeborg vs S\u00f8nderjyskE",
-                "channels": [
-                    {
-                        "channel_name": "TV2 Sport Denmark",
-                        "channel_id": "810"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Denmark - Super Liga : AGF vs Fredericia",
-                "channels": [
-                    {
-                        "channel_name": "TV3 Sport Denmark",
-                        "channel_id": "809"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Sweden - Allsvenskan : AIK vs Sirius",
-                "channels": [
-                    {
-                        "channel_name": "max Extra 3 Sweden",
-                        "channel_id": "5"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Sweden - Allsvenskan : Malm\u00f6 FF vs Degerfors",
-                "channels": [
-                    {
-                        "channel_name": "max Extra 4 Sweden",
-                        "channel_id": "6"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Sweden - Allsvenskan : Norrk\u00f6ping vs Djurg\u00e5rden",
-                "channels": [
-                    {
-                        "channel_name": "Kanal 5 Sweden",
-                        "channel_id": "1"
-                    },
-                    {
-                        "channel_name": "max Extra 1 Sweden",
-                        "channel_id": "7"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "England - Premier League 2 : Manchester United U21 vs Manchester City U21",
-                "channels": [
-                    {
-                        "channel_name": "MUTV UK",
-                        "channel_id": "377"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Switzerland - Super League : Lausanne Sport vs St. Gallen",
-                "channels": [
-                    {
-                        "channel_name": "Blue Sport 1 Live",
-                        "channel_id": "8"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Switzerland - Challenge League : Vaduz vs Wil",
-                "channels": [
-                    {
-                        "channel_name": "Blue Sport 3 Live",
-                        "channel_id": "9"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Switzerland - Challenge League : Yverdon Sport vs Neuch\u00e2tel Xamax",
-                "channels": [
-                    {
-                        "channel_name": "Blue Sport 2 Live",
-                        "channel_id": "10"
-                    }
-                ]
-            },
-            {
                 "time": "11:30",
                 "event": "Germany - Bundesliga 2 : Simulcast",
                 "channels": [
@@ -10249,6 +10207,100 @@
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Denmark - Super Liga : Silkeborg vs S\u00f8nderjyskE",
+                "channels": [
+                    {
+                        "channel_name": "TV2 Sport Denmark",
+                        "channel_id": "810"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Denmark - Super Liga : AGF vs Fredericia",
+                "channels": [
+                    {
+                        "channel_name": "TV3 Sport Denmark",
+                        "channel_id": "809"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Sweden - Allsvenskan : AIK vs Sirius",
+                "channels": [
+                    {
+                        "channel_name": "max Extra 3 Sweden",
+                        "channel_id": "5"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Sweden - Allsvenskan : Malm\u00f6 FF vs Degerfors",
+                "channels": [
+                    {
+                        "channel_name": "max Extra 4 Sweden",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Sweden - Allsvenskan : Norrk\u00f6ping vs Djurg\u00e5rden",
+                "channels": [
+                    {
+                        "channel_name": "Kanal 5 Sweden",
+                        "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "max Extra 1 Sweden",
+                        "channel_id": "7"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "England - Premier League 2 : Manchester United U21 vs Manchester City U21",
+                "channels": [
+                    {
+                        "channel_name": "MUTV UK",
+                        "channel_id": "377"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Switzerland - Super League : Lausanne Sport vs St. Gallen",
+                "channels": [
+                    {
+                        "channel_name": "Blue Sport 1 Live",
+                        "channel_id": "8"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Switzerland - Challenge League : Vaduz vs Wil",
+                "channels": [
+                    {
+                        "channel_name": "Blue Sport 3 Live",
+                        "channel_id": "9"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "Switzerland - Challenge League : Yverdon Sport vs Neuch\u00e2tel Xamax",
+                "channels": [
+                    {
+                        "channel_name": "Blue Sport 2 Live",
+                        "channel_id": "10"
                     }
                 ]
             },
@@ -14634,7 +14686,7 @@
             },
             {
                 "time": "19:00",
-                "event": "NCAA FBS : Virginia Tech vs. No. 13 South Carolina (in Atlanta)",
+                "event": "NCAA FBS : Virginia Tech vs No. 13 South Carolina (in Atlanta)",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
@@ -14652,7 +14704,7 @@
             },
             {
                 "time": "20:00",
-                "event": "College Football : Miles vs. Virginia Union",
+                "event": "College Football : Miles vs Virginia Union",
                 "channels": [
                     {
                         "channel_name": "NFL Network USA",
@@ -14774,7 +14826,7 @@
         "Baseball</span>": [
             {
                 "time": "21:00",
-                "event": "Athletes Unlimited Softball League All-Star Cup: Team Orange vs Team Gold",
+                "event": "Athletes Unlimited Softball League All-Star Cup: Team Coffel vs. Team Kowalik",
                 "channels": [
                     {
                         "channel_name": "ESPNU USA",
@@ -15990,7 +16042,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Hubert Wagner Memorial : Brazil vs. Serbia",
+                "event": "Hubert Wagner Memorial : Brazil vs Serbia",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
@@ -16000,7 +16052,7 @@
             },
             {
                 "time": "18:30",
-                "event": "Hubert Wagner Memorial : Poland vs. Argentina",
+                "event": "Hubert Wagner Memorial : Poland vs Argentina",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 1 Poland",
@@ -16034,7 +16086,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Women's College Volleyball : Kentucky vs. Nebraska",
+                "event": "Women's College Volleyball : Kentucky vs Nebraska",
                 "channels": [
                     {
                         "channel_name": "ABC NY USA",
@@ -16044,7 +16096,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Women's College Volleyball : Pittsburgh vs. TCU",
+                "event": "Women's College Volleyball : Pittsburgh vs TCU",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 1 USA",
@@ -16054,7 +16106,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Women's College Volleyball : Texas vs. Wisconsin",
+                "event": "Women's College Volleyball : Texas vs Wisconsin",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -16064,7 +16116,7 @@
             },
             {
                 "time": "19:00",
-                "event": "Women's College Volleyball : Purdue vs. Tennessee",
+                "event": "Women's College Volleyball : Purdue vs Tennessee",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -16074,7 +16126,7 @@
             },
             {
                 "time": "20:30",
-                "event": "Women's College Volleyball : Kansas vs. Creighton",
+                "event": "Women's College Volleyball : Kansas vs Creighton",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -16084,7 +16136,7 @@
             },
             {
                 "time": "21:00",
-                "event": "Women's College Volleyball : Arizona State at Penn State",
+                "event": "Women's College Volleyball : Arizona State vs Penn State",
                 "channels": [
                     {
                         "channel_name": "FOX USA",
@@ -16098,7 +16150,7 @@
             },
             {
                 "time": "22:00",
-                "event": "Women's College Volleyball : Illinois vs. Vanderbilt",
+                "event": "Women's College Volleyball : Illinois vs Vanderbilt",
                 "channels": [
                     {
                         "channel_name": "SEC Network USA",
