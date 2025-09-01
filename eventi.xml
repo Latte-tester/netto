@@ -1,49 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCForlivsRavenna">
-    <display-name>Italy - Serie C : Forli vs Ravenna</display-name>
+  <channel id="USOpenRound1Day10">
+    <display-name>US Open Round 1 | Day 10</display-name>
   </channel>
-  <programme start="20250901000000 +0200" stop="20250901203000 +0200" channel="ItalySerieCForlivsRavenna">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna.</desc>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250901203000 +0200" stop="20250901223000 +0200" channel="ItalySerieCForlivsRavenna">
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250901000000 +0200" stop="20250901203000 +0200" channel="ItalySerieCForlivsRavenna">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna.</desc>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250901203000 +0200" stop="20250901223000 +0200" channel="ItalySerieCForlivsRavenna">
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250901000000 +0200" stop="20250901203000 +0200" channel="ItalySerieCForlivsRavenna">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna.</desc>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250901203000 +0200" stop="20250901223000 +0200" channel="ItalySerieCForlivsRavenna">
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Forli vs Ravenna</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
   </programme>
-  <channel id="ItalySerieCNuovaMonterosivsPineto">
-    <display-name>Italy - Serie C : Nuova Monterosi vs Pineto</display-name>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250902000000 +0200" stop="20250902160000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 10.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250902160000 +0200" stop="20250902180000 +0200" channel="USOpenRound1Day10">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 10</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="EuroBasketItalyvsSpain">
+    <display-name>EuroBasket : Italy vs Spain</display-name>
   </channel>
-  <programme start="20250901000000 +0200" stop="20250901210000 +0200" channel="ItalySerieCNuovaMonterosivsPineto">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Pineto.</desc>
+  <programme start="20250902000000 +0200" stop="20250902203000 +0200" channel="EuroBasketItalyvsSpain">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">EuroBasket : Italy vs Spain.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250901210000 +0200" stop="20250901230000 +0200" channel="ItalySerieCNuovaMonterosivsPineto">
+  <programme start="20250902203000 +0200" stop="20250902223000 +0200" channel="EuroBasketItalyvsSpain">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Pineto</desc>
-    <category lang="it">Soccer</category>
+    <desc lang="it">EuroBasket : Italy vs Spain</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="LaVueltaaEspaaStage10Hilly168km3000m">
+    <display-name>La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m</display-name>
+  </channel>
+  <programme start="20250902000000 +0200" stop="20250902150000 +0200" channel="LaVueltaaEspaaStage10Hilly168km3000m">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250902150000 +0200" stop="20250902170000 +0200" channel="LaVueltaaEspaaStage10Hilly168km3000m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">La Vuelta a España: Stage 10 Hilly | 168 km | 3000 m</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
