@@ -63,19 +63,6 @@
     <desc lang="it">US Open Round 1 | Day 11</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="LaVueltaaEspaaStage11Hilly167km3200m">
-    <display-name>La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m</display-name>
-  </channel>
-  <programme start="20250903000000 +0200" stop="20250903132000 +0200" channel="LaVueltaaEspaaStage11Hilly167km3200m">
-    <title lang="it">Inizia  alle 13:20.</title>
-    <desc lang="it">La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903132000 +0200" stop="20250903152000 +0200" channel="LaVueltaaEspaaStage11Hilly167km3200m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 11 Hilly | 167 km | 3200 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="WorldChampionshipWomenItalyWvsPolandW">
     <display-name>World Championship Women : Italy W vs Poland W</display-name>
   </channel>
