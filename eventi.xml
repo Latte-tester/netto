@@ -1,3 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="WorldCupQualifyingKazakhstanvsWales">
+    <display-name>World Cup Qualifying : Kazakhstan vs Wales</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="WorldCupQualifyingKazakhstanvsWales">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">World Cup Qualifying : Kazakhstan vs Wales.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="WorldCupQualifyingKazakhstanvsWales">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Kazakhstan vs Wales</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingGeorgiavsTurkey">
+    <display-name>World Cup Qualifying : Georgia vs Turkey</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904180000 +0200" channel="WorldCupQualifyingGeorgiavsTurkey">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">World Cup Qualifying : Georgia vs Turkey.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904180000 +0200" stop="20250904200000 +0200" channel="WorldCupQualifyingGeorgiavsTurkey">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Georgia vs Turkey</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingLithuaniavsMalta">
+    <display-name>World Cup Qualifying : Lithuania vs Malta</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904180000 +0200" channel="WorldCupQualifyingLithuaniavsMalta">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">World Cup Qualifying : Lithuania vs Malta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904180000 +0200" stop="20250904200000 +0200" channel="WorldCupQualifyingLithuaniavsMalta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Lithuania vs Malta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FriendlyNorwayvsFinland">
+    <display-name>Friendly : Norway vs Finland</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904180000 +0200" channel="FriendlyNorwayvsFinland">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Friendly : Norway vs Finland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904180000 +0200" stop="20250904200000 +0200" channel="FriendlyNorwayvsFinland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly : Norway vs Finland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingNetherlandsvsPoland">
+    <display-name>World Cup Qualifying : Netherlands vs Poland</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904204500 +0200" channel="WorldCupQualifyingNetherlandsvsPoland">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">World Cup Qualifying : Netherlands vs Poland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904204500 +0200" stop="20250904224500 +0200" channel="WorldCupQualifyingNetherlandsvsPoland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Netherlands vs Poland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingSlovakiavsGermany">
+    <display-name>World Cup Qualifying : Slovakia vs Germany</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904204500 +0200" channel="WorldCupQualifyingSlovakiavsGermany">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">World Cup Qualifying : Slovakia vs Germany.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904204500 +0200" stop="20250904224500 +0200" channel="WorldCupQualifyingSlovakiavsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Slovakia vs Germany</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="USOpenRound1Day12">
+    <display-name>US Open Round 1 | Day 12</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250904000000 +0200" stop="20250904160000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">US Open Round 1 | Day 12.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904160000 +0200" stop="20250904180000 +0200" channel="USOpenRound1Day12">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Round 1 | Day 12</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="EuroBasketItalyvsCyprus">
+    <display-name>EuroBasket : Italy vs Cyprus</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904171500 +0200" channel="EuroBasketItalyvsCyprus">
+    <title lang="it">Inizia  alle 17:15.</title>
+    <desc lang="it">EuroBasket : Italy vs Cyprus.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904171500 +0200" stop="20250904191500 +0200" channel="EuroBasketItalyvsCyprus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">EuroBasket : Italy vs Cyprus</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="LaVueltaaEspaaStage12Hilly143km2400m">
+    <display-name>La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m</display-name>
+  </channel>
+  <programme start="20250904000000 +0200" stop="20250904145000 +0200" channel="LaVueltaaEspaaStage12Hilly143km2400m">
+    <title lang="it">Inizia  alle 14:50.</title>
+    <desc lang="it">La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250904145000 +0200" stop="20250904165000 +0200" channel="LaVueltaaEspaaStage12Hilly143km2400m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
