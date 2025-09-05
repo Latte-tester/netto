@@ -115,58 +115,6 @@
     <desc lang="it">US Open Round 1 | Day 13</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GrandPrixofCataloniaFreePractice1">
-    <display-name>Moto3 : Grand Prix of Catalonia Free Practice 1</display-name>
-  </channel>
-  <programme start="20250905000000 +0200" stop="20250905085500 +0200" channel="Moto3GrandPrixofCataloniaFreePractice1">
-    <title lang="it">Inizia  alle 08:55.</title>
-    <desc lang="it">Moto3 : Grand Prix of Catalonia Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905085500 +0200" stop="20250905105500 +0200" channel="Moto3GrandPrixofCataloniaFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Grand Prix of Catalonia Free Practice 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="MotoGPGrandPrixofCataloniaFreePractice1">
-    <display-name>MotoGP : Grand Prix of Catalonia Free Practice 1</display-name>
-  </channel>
-  <programme start="20250905000000 +0200" stop="20250905090000 +0200" channel="MotoGPGrandPrixofCataloniaFreePractice1">
-    <title lang="it">Inizia  alle 09:00.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905090000 +0200" stop="20250905110000 +0200" channel="MotoGPGrandPrixofCataloniaFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Free Practice 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Formula3PirelliItalianGrandPrixPractice">
-    <display-name>Formula 3 : Pirelli Italian Grand Prix - Practice</display-name>
-  </channel>
-  <programme start="20250905000000 +0200" stop="20250905093500 +0200" channel="Formula3PirelliItalianGrandPrixPractice">
-    <title lang="it">Inizia  alle 09:35.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905093500 +0200" stop="20250905113500 +0200" channel="Formula3PirelliItalianGrandPrixPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Practice</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Moto2GrandPrixofCataloniaFreePractice1">
-    <display-name>Moto2 : Grand Prix of Catalonia Free Practice 1</display-name>
-  </channel>
-  <programme start="20250905000000 +0200" stop="20250905094500 +0200" channel="Moto2GrandPrixofCataloniaFreePractice1">
-    <title lang="it">Inizia  alle 09:45.</title>
-    <desc lang="it">Moto2 : Grand Prix of Catalonia Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905094500 +0200" stop="20250905114500 +0200" channel="Moto2GrandPrixofCataloniaFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Grand Prix of Catalonia Free Practice 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Formula2PirelliItalianGrandPrixPractice">
     <display-name>Formula 2 : Pirelli Italian Grand Prix - Practice</display-name>
   </channel>
