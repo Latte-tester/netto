@@ -8,9 +8,9 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+#EXTINF:-1 tvg-name="Motorsports" group-title="Eventi Live",--- Motorsports ---
 https://exemple.m3u8
 
