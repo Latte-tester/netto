@@ -115,19 +115,6 @@
     <desc lang="it">US Open Round 1 | Day 13</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula2PirelliItalianGrandPrixPractice">
-    <display-name>Formula 2 : Pirelli Italian Grand Prix - Practice</display-name>
-  </channel>
-  <programme start="20250905000000 +0200" stop="20250905110000 +0200" channel="Formula2PirelliItalianGrandPrixPractice">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250905110000 +0200" stop="20250905130000 +0200" channel="Formula2PirelliItalianGrandPrixPractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Practice</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Moto3GrandPrixofCataloniaPractice">
     <display-name>Moto3 : Grand Prix of Catalonia Practice</display-name>
   </channel>
