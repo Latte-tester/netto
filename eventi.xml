@@ -476,19 +476,6 @@
     <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="RugbyChampionshipAustraliavsArgentina">
-    <display-name>Rugby Championship : Australia vs Argentina</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906063000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Inizia  alle 06:30.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906063000 +0200" stop="20250906083000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="WorldChampionshipWomenJapanWvsTurkeyW">
     <display-name>World Championship Women : Japan W vs Turkey W</display-name>
   </channel>
