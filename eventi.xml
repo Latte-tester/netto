@@ -65,6 +65,49 @@
     <desc lang="it">Italy - Serie C : Catania vs Monopoli</desc>
     <category lang="it">Soccer</category>
   </programme>
+  <channel id="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <display-name>2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Inizia  alle 22:00.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Inizia  alle 22:00.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Inizia  alle 22:00.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Inizia  alle 22:00.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <category lang="it">Tennis</category>
+  </programme>
   <channel id="UFCFightNight269MainCardNassourdineImavovvsCaioBorralho">
     <display-name>UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho</display-name>
   </channel>
@@ -77,18 +120,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho</desc>
     <category lang="it">MMA</category>
-  </programme>
-  <channel id="WorldCupCopperMensandWomensLeadFinal">
-    <display-name>World Cup | Copper Men's and Women's Lead | Final</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906200000 +0200" channel="WorldCupCopperMensandWomensLeadFinal">
-    <title lang="it">Inizia  alle 20:00.</title>
-    <desc lang="it">World Cup | Copper Men's and Women's Lead | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906200000 +0200" stop="20250906220000 +0200" channel="WorldCupCopperMensandWomensLeadFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Copper Men's and Women's Lead | Final</desc>
-    <category lang="it">Climbing</category>
   </programme>
 </tv>
