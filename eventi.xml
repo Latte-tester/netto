@@ -281,19 +281,6 @@
     <desc lang="it">US Open Round 1 | Day 14</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula1PirelliItalianGrandPrixPractice3">
-    <display-name>Formula 1 : Pirelli Italian Grand Prix - Practice 3</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906123000 +0200" channel="Formula1PirelliItalianGrandPrixPractice3">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Practice 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906123000 +0200" stop="20250906143000 +0200" channel="Formula1PirelliItalianGrandPrixPractice3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Practice 3</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Moto3GrandPrixofCataloniaQualifying">
     <display-name>Moto 3 : Grand Prix of Catalonia Qualifying</display-name>
   </channel>
@@ -423,29 +410,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldChampionshipWomenJapanWvsTurkeyW">
-    <display-name>World Championship Women : Japan W vs Turkey W</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906103000 +0200" channel="WorldChampionshipWomenJapanWvsTurkeyW">
-    <title lang="it">Inizia  alle 10:30.</title>
-    <desc lang="it">World Championship Women : Japan W vs Turkey W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906103000 +0200" stop="20250906123000 +0200" channel="WorldChampionshipWomenJapanWvsTurkeyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Japan W vs Turkey W</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906103000 +0200" channel="WorldChampionshipWomenJapanWvsTurkeyW">
-    <title lang="it">Inizia  alle 10:30.</title>
-    <desc lang="it">World Championship Women : Japan W vs Turkey W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906103000 +0200" stop="20250906123000 +0200" channel="WorldChampionshipWomenJapanWvsTurkeyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Women : Japan W vs Turkey W</desc>
-    <category lang="it">Volleyball</category>
   </programme>
   <channel id="WorldChampionshipWomenItalyWvsBrazilW">
     <display-name>World Championship Women : Italy W vs Brazil W</display-name>
