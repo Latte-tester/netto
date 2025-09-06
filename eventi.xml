@@ -281,19 +281,6 @@
     <desc lang="it">US Open Round 1 | Day 14</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula3PirelliItalianGrandPrixSprintRace">
-    <display-name>Formula 3 : Pirelli Italian Grand Prix - Sprint Race</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906081500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia  alle 08:15.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906081500 +0200" stop="20250906101500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Moto3GrandPrixofCataloniaFreePractice2">
     <display-name>Moto 3 : Grand Prix of Catalonia Free Practice 2</display-name>
   </channel>

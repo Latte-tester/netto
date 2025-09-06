@@ -14,10 +14,10 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
