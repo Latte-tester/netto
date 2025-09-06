@@ -281,58 +281,6 @@
     <desc lang="it">US Open Round 1 | Day 14</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GrandPrixofCataloniaQualifying">
-    <display-name>Moto 3 : Grand Prix of Catalonia Qualifying</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906124500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia  alle 12:45.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906124500 +0200" stop="20250906144500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="WorldChampionshipTrkiyeMXGPRace1">
-    <display-name>World Championship T?rkiye | MXGP | Race 1</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906130000 +0200" channel="WorldChampionshipTrkiyeMXGPRace1">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">World Championship T?rkiye | MXGP | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906130000 +0200" stop="20250906150000 +0200" channel="WorldChampionshipTrkiyeMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship T?rkiye | MXGP | Race 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Moto2GrandPrixofCataloniaQualifying">
-    <display-name>Moto 2 : Grand Prix of Catalonia Qualifying</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906134000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia  alle 13:40.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906134000 +0200" stop="20250906154000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Formula2PirelliItalianGrandPrixSprintRace">
-    <display-name>Formula 2 : Pirelli Italian Grand Prix - Sprint Race</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906141500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia  alle 14:15.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906141500 +0200" stop="20250906161500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="MotoGPGrandPrixofCataloniaSprintRace">
     <display-name>MotoGP : Grand Prix of Catalonia Sprint Race</display-name>
   </channel>
@@ -397,19 +345,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup | Copper Men's and Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="LaVueltaaEspaaStage14Mountain135km3800m">
-    <display-name>La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906131500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906131500 +0200" stop="20250906151500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="WorldChampionshipWomenItalyWvsBrazilW">
     <display-name>World Championship Women : Italy W vs Brazil W</display-name>
