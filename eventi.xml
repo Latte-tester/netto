@@ -350,19 +350,6 @@
     <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto2GrandPrixofCataloniaRace">
-    <display-name>Moto 2 : Grand Prix of Catalonia Race</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907120000 +0200" channel="Moto2GrandPrixofCataloniaRace">
-    <title lang="it">Inizia  alle 12:00.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907120000 +0200" stop="20250907140000 +0200" channel="Moto2GrandPrixofCataloniaRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="WorldChampionshipTurkiyeMXGPRace1">
     <display-name>World Championship Turkiye | MXGP | Race 1</display-name>
   </channel>
@@ -467,19 +454,6 @@
     <desc lang="it">World Athletics Continental Tour Gold 2025 Beijing</desc>
     <category lang="it">Athletics</category>
   </programme>
-  <channel id="UCIDownhillWorldChampionshipsWomenEliteValais">
-    <display-name>UCI Downhill World Championships | Women Elite Valais</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907105000 +0200" channel="UCIDownhillWorldChampionshipsWomenEliteValais">
-    <title lang="it">Inizia  alle 10:50.</title>
-    <desc lang="it">UCI Downhill World Championships | Women Elite Valais.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907105000 +0200" stop="20250907125000 +0200" channel="UCIDownhillWorldChampionshipsWomenEliteValais">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Downhill World Championships | Women Elite Valais</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UCIDownhillWorldChampionshipMenEliteValais">
     <display-name>UCI Downhill World Championship | Men Elite Valais</display-name>
   </channel>
@@ -518,29 +492,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup Women : Italy W vs Brazil W</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
-    <display-name>Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907103000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
-    <title lang="it">Inizia  alle 10:30.</title>
-    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907103000 +0200" stop="20250907123000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250907000000 +0200" stop="20250907103000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
-    <title lang="it">Inizia  alle 10:30.</title>
-    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907103000 +0200" stop="20250907123000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</desc>
-    <category lang="it">Volleyball</category>
   </programme>
   <channel id="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
     <display-name>Women's Volleyball: World Championship - Thailand 2025 match for Finale</display-name>
