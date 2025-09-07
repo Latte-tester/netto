@@ -1,124 +1,620 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCPergolettesevsCittadella">
-    <display-name>Italy - Serie C : Pergolettese vs Cittadella</display-name>
+  <channel id="WorldCupQualifyingGeorgiavsBulgaria">
+    <display-name>World Cup Qualifying : Georgia vs Bulgaria</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="ItalySerieCPergolettesevsCittadella">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Pergolettese vs Cittadella.</desc>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="WorldCupQualifyingGeorgiavsBulgaria">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">World Cup Qualifying : Georgia vs Bulgaria.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="ItalySerieCPergolettesevsCittadella">
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="WorldCupQualifyingGeorgiavsBulgaria">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pergolettese vs Cittadella</desc>
+    <desc lang="it">World Cup Qualifying : Georgia vs Bulgaria</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCUnionBresciavsProVercelli">
-    <display-name>Italy - Serie C : Union Brescia vs Pro Vercelli</display-name>
+  <channel id="ItalySerieCLeccovsDolomitiBellunesi">
+    <display-name>Italy - Serie C : Lecco vs Dolomiti Bellunesi</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="ItalySerieCUnionBresciavsProVercelli">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Pro Vercelli.</desc>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="ItalySerieCLeccovsDolomitiBellunesi">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Italy - Serie C : Lecco vs Dolomiti Bellunesi.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="ItalySerieCUnionBresciavsProVercelli">
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="ItalySerieCLeccovsDolomitiBellunesi">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Pro Vercelli</desc>
+    <desc lang="it">Italy - Serie C : Lecco vs Dolomiti Bellunesi</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCVirtusCasaranovsBenevento">
-    <display-name>Italy - Serie C : Virtus Casarano vs Benevento</display-name>
+  <channel id="ItalySerieCNovaravsTrento">
+    <display-name>Italy - Serie C : Novara vs Trento</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="ItalySerieCVirtusCasaranovsBenevento">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Benevento.</desc>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="ItalySerieCNovaravsTrento">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Italy - Serie C : Novara vs Trento.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="ItalySerieCVirtusCasaranovsBenevento">
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="ItalySerieCNovaravsTrento">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Benevento</desc>
+    <desc lang="it">Italy - Serie C : Novara vs Trento</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCCasertanavsPotenzaCalcio">
-    <display-name>Italy - Serie C : Casertana vs Potenza Calcio</display-name>
+  <channel id="ItalySerieCTriestinavsOspitaletto">
+    <display-name>Italy - Serie C : Triestina vs Ospitaletto</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="ItalySerieCCasertanavsPotenzaCalcio">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Potenza Calcio.</desc>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="ItalySerieCTriestinavsOspitaletto">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Ospitaletto.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="ItalySerieCCasertanavsPotenzaCalcio">
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="ItalySerieCTriestinavsOspitaletto">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Potenza Calcio</desc>
+    <desc lang="it">Italy - Serie C : Triestina vs Ospitaletto</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCCataniavsMonopoli">
-    <display-name>Italy - Serie C : Catania vs Monopoli</display-name>
+  <channel id="ItalySerieCVicenzavsUnionArzignanoChiampo">
+    <display-name>Italy - Serie C : Vicenza vs Union ArzignanoChiampo</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="ItalySerieCCataniavsMonopoli">
-    <title lang="it">Inizia  alle 20:30.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Monopoli.</desc>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCVicenzavsUnionArzignanoChiampo">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Vicenza vs Union ArzignanoChiampo.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="ItalySerieCCataniavsMonopoli">
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCVicenzavsUnionArzignanoChiampo">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Monopoli</desc>
+    <desc lang="it">Italy - Serie C : Vicenza vs Union ArzignanoChiampo</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
-    <display-name>2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</display-name>
+  <channel id="ItalySerieCGianaErminiovsProPatria">
+    <display-name>Italy - Serie C : Giana Erminio vs Pro Patria</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCGianaErminiovsProPatria">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Pro Patria.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCGianaErminiovsProPatria">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Pro Patria</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCPinetovsPontedera">
+    <display-name>Italy - Serie C : Pineto vs Pontedera</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCPinetovsPontedera">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Pineto vs Pontedera.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCPinetovsPontedera">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pineto vs Pontedera</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCRavennavsBra">
+    <display-name>Italy - Serie C : Ravenna vs Bra</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCRavennavsBra">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Ravenna vs Bra.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCRavennavsBra">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ravenna vs Bra</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCCrotonevsCosenza">
+    <display-name>Italy - Serie C : Crotone vs Cosenza</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCCrotonevsCosenza">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Crotone vs Cosenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCCrotonevsCosenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Crotone vs Cosenza</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907173000 +0200" channel="ItalySerieCCrotonevsCosenza">
+    <title lang="it">Inizia  alle 17:30.</title>
+    <desc lang="it">Italy - Serie C : Crotone vs Cosenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907173000 +0200" stop="20250907193000 +0200" channel="ItalySerieCCrotonevsCosenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Crotone vs Cosenza</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingNorthMacedoniavsLiechtenstein">
+    <display-name>World Cup Qualifying : North Macedonia vs Liechtenstein</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907180000 +0200" channel="WorldCupQualifyingNorthMacedoniavsLiechtenstein">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">World Cup Qualifying : North Macedonia vs Liechtenstein.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907180000 +0200" stop="20250907200000 +0200" channel="WorldCupQualifyingNorthMacedoniavsLiechtenstein">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : North Macedonia vs Liechtenstein</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingLithuaniavsNetherlands">
+    <display-name>World Cup Qualifying : Lithuania vs Netherlands</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907180000 +0200" channel="WorldCupQualifyingLithuaniavsNetherlands">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">World Cup Qualifying : Lithuania vs Netherlands.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907180000 +0200" stop="20250907200000 +0200" channel="WorldCupQualifyingLithuaniavsNetherlands">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Lithuania vs Netherlands</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCRiminivsTernana">
+    <display-name>Italy - Serie C : Rimini vs Ternana</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCRiminivsTernana">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Rimini vs Ternana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCRiminivsTernana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Rimini vs Ternana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCLivornovsNuovaMonterosi">
+    <display-name>Italy - Serie C : Livorno vs Nuova Monterosi</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCLivornovsNuovaMonterosi">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Nuova Monterosi.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCLivornovsNuovaMonterosi">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Nuova Monterosi</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCLatinavsPicerno">
+    <display-name>Italy - Serie C : Latina vs Picerno</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCLatinavsPicerno">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Latina vs Picerno.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCLatinavsPicerno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Latina vs Picerno</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsSiracusa">
+    <display-name>Italy - Serie C : Audace Cerignola vs Siracusa</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCAudaceCerignolavsSiracusa">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Siracusa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCAudaceCerignolavsSiracusa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Siracusa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCTeamAltamuravsCavese">
+    <display-name>Italy - Serie C : Team Altamura vs Cavese</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCTeamAltamuravsCavese">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCTeamAltamuravsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Cavese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCSambenedettesevsForl">
+    <display-name>Italy - Serie C : Sambenedettese vs Forlì</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907203000 +0200" channel="ItalySerieCSambenedettesevsForl">
+    <title lang="it">Inizia  alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Sambenedettese vs Forlì.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907203000 +0200" stop="20250907223000 +0200" channel="ItalySerieCSambenedettesevsForl">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Sambenedettese vs Forlì</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingTurkeyvsSpain">
+    <display-name>World Cup Qualifying : Turkey vs Spain</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907204500 +0200" channel="WorldCupQualifyingTurkeyvsSpain">
+    <title lang="it">Inizia  alle 20:45.</title>
+    <desc lang="it">World Cup Qualifying : Turkey vs Spain.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907204500 +0200" stop="20250907224500 +0200" channel="WorldCupQualifyingTurkeyvsSpain">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Turkey vs Spain</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="2025USOpenTennisMensFinal">
+    <display-name>2025 US Open Tennis Men's Final</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250906000000 +0200" stop="20250906220000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
-    <title lang="it">Inizia  alle 22:00.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A..</desc>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250907000000 +0200" channel="2025USOpenTennisWomensFinalSabalenkaAvsAnisimovaA">
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="UFCFightNight269MainCardNassourdineImavovvsCaioBorralho">
-    <display-name>UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho</display-name>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="2025USOpenTennisMensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <display-name>2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</display-name>
   </channel>
-  <programme start="20250906000000 +0200" stop="20250906210000 +0200" channel="UFCFightNight269MainCardNassourdineImavovvsCaioBorralho">
-    <title lang="it">Inizia  alle 21:00.</title>
-    <desc lang="it">UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho.</desc>
+  <programme start="20250907000000 +0200" stop="20250907200000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250906210000 +0200" stop="20250906230000 +0200" channel="UFCFightNight269MainCardNassourdineImavovvsCaioBorralho">
+  <programme start="20250907200000 +0200" stop="20250907220000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho</desc>
-    <category lang="it">MMA</category>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907200000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907200000 +0200" stop="20250907220000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907200000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907200000 +0200" stop="20250907220000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907200000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Inizia  alle 20:00.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907200000 +0200" stop="20250907220000 +0200" channel="2025USOpenTennisMensFinalCarlosAlcarazvsJannikSinner">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula3PirelliItalianGrandPrixRace">
+    <display-name>Formula 3 : Pirelli Italian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907081500 +0200" channel="Formula3PirelliItalianGrandPrixRace">
+    <title lang="it">Inizia  alle 08:15.</title>
+    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907081500 +0200" stop="20250907101500 +0200" channel="Formula3PirelliItalianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="MotoGPGrandPrixofCataloniaWarmUp">
+    <display-name>MotoGP : Grand Prix of Catalonia Warm Up</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907093000 +0200" channel="MotoGPGrandPrixofCataloniaWarmUp">
+    <title lang="it">Inizia  alle 09:30.</title>
+    <desc lang="it">MotoGP : Grand Prix of Catalonia Warm Up.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907093000 +0200" stop="20250907113000 +0200" channel="MotoGPGrandPrixofCataloniaWarmUp">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Grand Prix of Catalonia Warm Up</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="Formula2PirelliItalianGrandPrixRace">
+    <display-name>Formula 2 : Pirelli Italian Grand Prix - Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907094500 +0200" channel="Formula2PirelliItalianGrandPrixRace">
+    <title lang="it">Inizia  alle 09:45.</title>
+    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907094500 +0200" stop="20250907114500 +0200" channel="Formula2PirelliItalianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="Moto3GrandPrixofCataloniaRace">
+    <display-name>Moto 3 : Grand Prix of Catalonia Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907100000 +0200" channel="Moto3GrandPrixofCataloniaRace">
+    <title lang="it">Inizia  alle 10:00.</title>
+    <desc lang="it">Moto 3 : Grand Prix of Catalonia Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907100000 +0200" stop="20250907120000 +0200" channel="Moto3GrandPrixofCataloniaRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto 3 : Grand Prix of Catalonia Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="Moto2GrandPrixofCataloniaRace">
+    <display-name>Moto 2 : Grand Prix of Catalonia Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907120000 +0200" channel="Moto2GrandPrixofCataloniaRace">
+    <title lang="it">Inizia  alle 12:00.</title>
+    <desc lang="it">Moto 2 : Grand Prix of Catalonia Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907120000 +0200" stop="20250907140000 +0200" channel="Moto2GrandPrixofCataloniaRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto 2 : Grand Prix of Catalonia Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="WorldChampionshipTurkiyeMXGPRace1">
+    <display-name>World Championship Turkiye | MXGP | Race 1</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="WorldChampionshipTurkiyeMXGPRace1">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">World Championship Turkiye | MXGP | Race 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="WorldChampionshipTurkiyeMXGPRace1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Turkiye | MXGP | Race 1</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="MotoGPGrandPrixofCataloniaRace">
+    <display-name>MotoGP : Grand Prix of Catalonia Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907131500 +0200" channel="MotoGPGrandPrixofCataloniaRace">
+    <title lang="it">Inizia  alle 13:15.</title>
+    <desc lang="it">MotoGP : Grand Prix of Catalonia Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907131500 +0200" stop="20250907151500 +0200" channel="MotoGPGrandPrixofCataloniaRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Grand Prix of Catalonia Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="Formula1PirelliItalianGrandPrixGrandPrixSunday">
+    <display-name>Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907140000 +0200" channel="Formula1PirelliItalianGrandPrixGrandPrixSunday">
+    <title lang="it">Inizia  alle 14:00.</title>
+    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907140000 +0200" stop="20250907160000 +0200" channel="Formula1PirelliItalianGrandPrixGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="Formula1PirelliItalianGrandPrixRace">
+    <display-name>Formula 1 : Pirelli Italian Grand Prix Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="Formula1PirelliItalianGrandPrixRace">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="Formula1PirelliItalianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="WorldChampionshipTurkiyeMXGPRace2">
+    <display-name>World Championship Turkiye | MXGP | Race 2</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907160000 +0200" channel="WorldChampionshipTurkiyeMXGPRace2">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">World Championship Turkiye | MXGP | Race 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907160000 +0200" stop="20250907180000 +0200" channel="WorldChampionshipTurkiyeMXGPRace2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Turkiye | MXGP | Race 2</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="FIAWECRound6LoneStarLeMansRace">
+    <display-name>FIA WEC | Round 6 | Lone Star Le Mans Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907193000 +0200" channel="FIAWECRound6LoneStarLeMansRace">
+    <title lang="it">Inizia  alle 19:30.</title>
+    <desc lang="it">FIA WEC | Round 6 | Lone Star Le Mans Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907193000 +0200" stop="20250907213000 +0200" channel="FIAWECRound6LoneStarLeMansRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA WEC | Round 6 | Lone Star Le Mans Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="FIAWorldEnduranceChampionshipLoneStarLeMansRace">
+    <display-name>FIA World Endurance Championship: Lone Star Le Mans Race</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907233000 +0200" channel="FIAWorldEnduranceChampionshipLoneStarLeMansRace">
+    <title lang="it">Inizia  alle 23:30.</title>
+    <desc lang="it">FIA World Endurance Championship: Lone Star Le Mans Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907233000 +0200" stop="20250908013000 +0200" channel="FIAWorldEnduranceChampionshipLoneStarLeMansRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA World Endurance Championship: Lone Star Le Mans Race</desc>
+    <category lang="it">Motorsports</category>
+  </programme>
+  <channel id="WorldAthleticsContinentalTourGold2025Beijing">
+    <display-name>World Athletics Continental Tour Gold 2025 Beijing</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="WorldAthleticsContinentalTourGold2025Beijing">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">World Athletics Continental Tour Gold 2025 Beijing.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="WorldAthleticsContinentalTourGold2025Beijing">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Athletics Continental Tour Gold 2025 Beijing</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <channel id="UCIDownhillWorldChampionshipsWomenEliteValais">
+    <display-name>UCI Downhill World Championships | Women Elite Valais</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907105000 +0200" channel="UCIDownhillWorldChampionshipsWomenEliteValais">
+    <title lang="it">Inizia  alle 10:50.</title>
+    <desc lang="it">UCI Downhill World Championships | Women Elite Valais.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907105000 +0200" stop="20250907125000 +0200" channel="UCIDownhillWorldChampionshipsWomenEliteValais">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Downhill World Championships | Women Elite Valais</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="UCIDownhillWorldChampionshipMenEliteValais">
+    <display-name>UCI Downhill World Championship | Men Elite Valais</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="UCIDownhillWorldChampionshipMenEliteValais">
+    <title lang="it">Inizia  alle 13:00.</title>
+    <desc lang="it">UCI Downhill World Championship | Men Elite Valais.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="UCIDownhillWorldChampionshipMenEliteValais">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Downhill World Championship | Men Elite Valais</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="LaVueltaaEspaaStage15Hilly167km3200m">
+    <display-name>La Vuelta a España: Stage 15 Hilly | 167 km | 3200 m</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="LaVueltaaEspaaStage15Hilly167km3200m">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">La Vuelta a España: Stage 15 Hilly | 167 km | 3200 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="LaVueltaaEspaaStage15Hilly167km3200m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">La Vuelta a España: Stage 15 Hilly | 167 km | 3200 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="WorldCupWomenItalyWvsBrazilW">
+    <display-name>World Cup Women : Italy W vs Brazil W</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907150000 +0200" channel="WorldCupWomenItalyWvsBrazilW">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">World Cup Women : Italy W vs Brazil W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907150000 +0200" stop="20250907170000 +0200" channel="WorldCupWomenItalyWvsBrazilW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Women : Italy W vs Brazil W</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+  <channel id="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
+    <display-name>Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907103000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
+    <title lang="it">Inizia  alle 10:30.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907103000 +0200" stop="20250907123000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907103000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
+    <title lang="it">Inizia  alle 10:30.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907103000 +0200" stop="20250907123000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchfor3rdplace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for 3rd place</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
+    <display-name>Women's Volleyball: World Championship - Thailand 2025 match for Finale</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907143000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
+    <title lang="it">Inizia  alle 14:30.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for Finale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907143000 +0200" stop="20250907163000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for Finale</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20250907000000 +0200" stop="20250907143000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
+    <title lang="it">Inizia  alle 14:30.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for Finale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907143000 +0200" stop="20250907163000 +0200" channel="WomensVolleyballWorldChampionshipThailand2025matchforFinale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Volleyball: World Championship - Thailand 2025 match for Finale</desc>
+    <category lang="it">Volleyball</category>
   </programme>
 </tv>

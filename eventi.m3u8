@@ -8,9 +8,18 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="MMA" group-title="Eventi Live",--- MMA ---
+#EXTINF:-1 tvg-name="Motorsports" group-title="Eventi Live",--- Motorsports ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://exemple.m3u8
 
