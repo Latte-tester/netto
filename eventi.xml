@@ -350,45 +350,6 @@
     <desc lang="it">2025 US Open Tennis Men's Final: Carlos Alcaraz vs Jannik Sinner</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="WorldChampionshipTurkiyeMXGPRace1">
-    <display-name>World Championship Turkiye | MXGP | Race 1</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="WorldChampionshipTurkiyeMXGPRace1">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">World Championship Turkiye | MXGP | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="WorldChampionshipTurkiyeMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Turkiye | MXGP | Race 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="MotoGPGrandPrixofCataloniaRace">
-    <display-name>MotoGP : Grand Prix of Catalonia Race</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907131500 +0200" channel="MotoGPGrandPrixofCataloniaRace">
-    <title lang="it">Inizia  alle 13:15.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907131500 +0200" stop="20250907151500 +0200" channel="MotoGPGrandPrixofCataloniaRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Formula1PirelliItalianGrandPrixGrandPrixSunday">
-    <display-name>Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907140000 +0200" channel="Formula1PirelliItalianGrandPrixGrandPrixSunday">
-    <title lang="it">Inizia  alle 14:00.</title>
-    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907140000 +0200" stop="20250907160000 +0200" channel="Formula1PirelliItalianGrandPrixGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Pirelli Italian Grand Prix - Grand Prix Sunday</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Formula1PirelliItalianGrandPrixRace">
     <display-name>Formula 1 : Pirelli Italian Grand Prix Race</display-name>
   </channel>
@@ -440,32 +401,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">FIA World Endurance Championship: Lone Star Le Mans Race</desc>
     <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="WorldAthleticsContinentalTourGold2025Beijing">
-    <display-name>World Athletics Continental Tour Gold 2025 Beijing</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="WorldAthleticsContinentalTourGold2025Beijing">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">World Athletics Continental Tour Gold 2025 Beijing.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="WorldAthleticsContinentalTourGold2025Beijing">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Athletics Continental Tour Gold 2025 Beijing</desc>
-    <category lang="it">Athletics</category>
-  </programme>
-  <channel id="UCIDownhillWorldChampionshipMenEliteValais">
-    <display-name>UCI Downhill World Championship | Men Elite Valais</display-name>
-  </channel>
-  <programme start="20250907000000 +0200" stop="20250907130000 +0200" channel="UCIDownhillWorldChampionshipMenEliteValais">
-    <title lang="it">Inizia  alle 13:00.</title>
-    <desc lang="it">UCI Downhill World Championship | Men Elite Valais.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250907130000 +0200" stop="20250907150000 +0200" channel="UCIDownhillWorldChampionshipMenEliteValais">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Downhill World Championship | Men Elite Valais</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="LaVueltaaEspaaStage15Hilly167km3200m">
     <display-name>La Vuelta a España: Stage 15 Hilly | 167 km | 3200 m</display-name>
