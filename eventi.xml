@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GuadalajaraWTASaoPauloWTAEarlyRounds">
+    <display-name>Guadalajara-WTA & Sao Paulo-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20250910000000 +0200" stop="20250910180000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
+    <title lang="it">Inizia  alle 18:00.</title>
+    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250910180000 +0200" stop="20250910200000 +0200" channel="GuadalajaraWTASaoPauloWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="VueltaaEspanaStage17137OBarcodeValdeorrasAltodeElMorrederoPonferradaHilly137km3370m">
+    <display-name>Vuelta a Espana Stage 17 - 137 O Barco de Valdeorras - Alto de El Morredero.Ponferrada Hilly | 137 km | 3370 m</display-name>
+  </channel>
+  <programme start="20250910000000 +0200" stop="20250910150000 +0200" channel="VueltaaEspanaStage17137OBarcodeValdeorrasAltodeElMorrederoPonferradaHilly137km3370m">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Vuelta a Espana Stage 17 - 137 O Barco de Valdeorras - Alto de El Morredero.Ponferrada Hilly | 137 km | 3370 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250910150000 +0200" stop="20250910170000 +0200" channel="VueltaaEspanaStage17137OBarcodeValdeorrasAltodeElMorrederoPonferradaHilly137km3370m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Vuelta a Espana Stage 17 - 137 O Barco de Valdeorras - Alto de El Morredero.Ponferrada Hilly | 137 km | 3370 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
