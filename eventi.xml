@@ -52,19 +52,6 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="LaVueltaaEspaaStage16Hilly172km3470m">
-    <display-name>La Vuelta a España: Stage 16 Hilly | 172 km | 3470 m</display-name>
-  </channel>
-  <programme start="20250909000000 +0200" stop="20250909145000 +0200" channel="LaVueltaaEspaaStage16Hilly172km3470m">
-    <title lang="it">Inizia  alle 14:50.</title>
-    <desc lang="it">La Vuelta a España: Stage 16 Hilly | 172 km | 3470 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250909145000 +0200" stop="20250909165000 +0200" channel="LaVueltaaEspaaStage16Hilly172km3470m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 16 Hilly | 172 km | 3470 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UCICrosscountryShortTrackWorldChampionshipsWomenElite">
     <display-name>UCI Cross-country Short Track World Championships | Women Elite</display-name>
   </channel>
