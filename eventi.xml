@@ -13,30 +13,4 @@
     <desc lang="it">Guadalajara-WTA & Sao Paulo-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="VueltaaEspanaStage18ITT26km140m">
-    <display-name>Vuelta a Espana: Stage 18 ITT | 26 km | 140 m</display-name>
-  </channel>
-  <programme start="20250911000000 +0200" stop="20250911150000 +0200" channel="VueltaaEspanaStage18ITT26km140m">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Vuelta a Espana: Stage 18 ITT | 26 km | 140 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250911150000 +0200" stop="20250911170000 +0200" channel="VueltaaEspanaStage18ITT26km140m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Vuelta a Espana: Stage 18 ITT | 26 km | 140 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="SabatiniCup210km">
-    <display-name>Sabatini Cup | 210 km</display-name>
-  </channel>
-  <programme start="20250911000000 +0200" stop="20250911151000 +0200" channel="SabatiniCup210km">
-    <title lang="it">Inizia  alle 15:10.</title>
-    <desc lang="it">Sabatini Cup | 210 km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250911151000 +0200" stop="20250911171000 +0200" channel="SabatiniCup210km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sabatini Cup | 210 km</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
